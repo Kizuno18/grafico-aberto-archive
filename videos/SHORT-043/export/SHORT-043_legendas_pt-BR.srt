@@ -1,0 +1,11 @@
+﻿1
+00:00:00,000 --> 00:00:05,590
+Você sabia que mais de 110 milhões de passageiros voam no Brasil todos os anos?
+
+2
+00:00:05,590 --> 00:00:15,180
+O tráfego aéreo quase quadruplicou desde 2000! Guarulhos lidera com mais de 40 milhões.
+
+3
+00:00:15,180 --> 00:00:22,000
+A ponte aérea Rio-SP está no Top 5 mundial. Inscreva-se no Gráfico Aberto!
