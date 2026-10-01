@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:07,400
+ Você sabia que o Brasil levou mais de cento e cinquenta anos desde o primeiro Censo para mapear e contar toda a sua população quilombola?
+ 
+ 2
+ 00:00:07,400 --> 00:00:15,500
+ São mais de um milhão e trezentas mil pessoas em todo o país, com quase setenta por cento no Nordeste, concentrados principalmente na Bahia e no Maranhão.
+ 
+ 3
+ 00:00:15,500 --> 00:00:24,200
+ No entanto, menos de cinco por cento vivem em territórios que já foram oficialmente titulados. Inscreva-se no Gráfico Aberto para acompanhar os dados reais!
