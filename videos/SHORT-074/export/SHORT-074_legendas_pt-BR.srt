@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:06,000
+ Você sabia que o Brasil possui a maior frota de automóveis civis blindados de todo o planeta Terra em circulação?
+ 
+ 2
+ 00:00:06,000 --> 00:00:13,800
+ O país blinda cerca de trinta mil carros novos a cada ano, com o estado de São Paulo concentrando mais de setenta por cento de toda essa demanda.
+ 
+ 3
+ 00:00:13,800 --> 00:00:21,400
+ A blindagem padrão nível três A movimenta um mercado bilionário nas capitais. Inscreva-se no Gráfico Aberto para acompanhar os dados reais!
