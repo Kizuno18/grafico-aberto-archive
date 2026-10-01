@@ -1,0 +1,11 @@
+﻿1
+00:00:00,000 --> 00:00:05,630
+Você já percebeu a quantidade de carros elétricos e híbridos rodando nas ruas?
+
+2
+00:00:05,630 --> 00:00:16,980
+Segundo a ABVE, as vendas saltaram de 20 mil em 2020 para mais de 150 mil em 2024: quase 8x mais!
+
+3
+00:00:16,980 --> 00:00:24,160
+A frota no país já passa de 300 mil veículos. Inscreva-se no Gráfico Aberto!
