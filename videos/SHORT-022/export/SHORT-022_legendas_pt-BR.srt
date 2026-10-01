@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:05,768
+Mais de 75 milhões de brasileiros ainda não têm rede de esgoto na porta de casa!
+
+2
+00:00:05,768 --> 00:00:16,157
+No Censo do IBGE, o Sudeste tem 86% de cobertura, mas o Norte tem menos de 15%.
+
+3
+00:00:16,157 --> 00:00:24,003
+E quase 34 milhões ainda vivem sem água encanada regular. Siga o Gráfico Aberto!
+
