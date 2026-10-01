@@ -1,0 +1,11 @@
+﻿1
+00:00:00,000 --> 00:00:05,970
+Você sabia que a mortalidade infantil no Brasil desabou 85% em quatro décadas?
+
+2
+00:00:05,970 --> 00:00:15,630
+Em 1980 morriam mais de 80 bebês por mil nascidos vivos. Hoje, são menos de 12 por mil!
+
+3
+00:00:15,630 --> 00:00:23,400
+Vacinas no SUS, saneamento e pré-natal salvaram milhões. Inscreva-se no Gráfico Aberto!
