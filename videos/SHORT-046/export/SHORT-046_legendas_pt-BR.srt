@@ -1,0 +1,11 @@
+﻿1
+00:00:00,000 --> 00:00:05,420
+Você já viu como toda a renda do Brasil é dividida entre ricos e pobres?
+
+2
+00:00:05,420 --> 00:00:16,190
+Segundo o IBGE, os 10% mais ricos concentram 41% de toda a renda; metade da base fica com menos de 20%!
+
+3
+00:00:16,190 --> 00:00:23,760
+Na base, a renda média é de R$ 600 por pessoa. Inscreva-se no Gráfico Aberto!
