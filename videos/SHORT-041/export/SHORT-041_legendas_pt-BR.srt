@@ -1,0 +1,11 @@
+﻿1
+00:00:00,000 --> 00:00:05,860
+Você sabia que mais de 30 milhões de brasileiros não têm água encanada da rede?
+
+2
+00:00:05,860 --> 00:00:15,240
+No Sudeste, mais de 91% têm água da rede. Mas no Norte, o número despenca para 58%!
+
+3
+00:00:15,240 --> 00:00:23,440
+A maior bacia de água do planeta com a menor rede. Inscreva-se no Gráfico Aberto!
