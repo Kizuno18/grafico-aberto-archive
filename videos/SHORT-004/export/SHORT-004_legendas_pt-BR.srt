@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:06,615
+Em 1960, a mulher brasileira tinha mais de 6 filhos. Hoje, tem menos de 1,6.
+
+2
+00:00:06,615 --> 00:00:15,809
+Os dados do Censo do IBGE mostram uma queda de 75%, abaixo da taxa de reposição.
+
+3
+00:00:15,809 --> 00:00:23,678
+O número de nascimentos anuais é o menor em 40 anos. Inscreva-se no Gráfico Aberto!
+
