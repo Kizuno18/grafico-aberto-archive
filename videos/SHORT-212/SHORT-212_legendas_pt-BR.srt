@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:06,675
+Você sabia que o Brasil tem 5 milhões de jovens a menos do que há dez anos?
+
+2
+00:00:06,675 --> 00:00:15,963
+Segundo o Censo do IBGE, a faixa de 15 a 29 anos encolheu para 22% da população, acelerando o envelhecimento!
+
+3
+00:00:15,963 --> 00:00:21,942
+Com menos jovens, a produtividade precisa disparar. Quer dados reais? Siga o Gráfico Aberto!
