@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:07,100
+ Você sabia que mais de dez milhões e setecentas mil pessoas no Brasil vivem com algum grau de deficiência auditiva segundo o IBGE?
+ 
+ 2
+ 00:00:07,100 --> 00:00:15,000
+ São mais de dois milhões de pessoas com surdez severa ou profunda, e mais de metade de todos os casos atinge a população com mais de sessenta anos.
+ 
+ 3
+ 00:00:15,000 --> 00:00:23,500
+ A Língua Brasileira de Sinais, a Libras, é a ferramenta oficial que garante cidadania e inclusão. Inscreva-se no Gráfico Aberto para ver os dados reais!
