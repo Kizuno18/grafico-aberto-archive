@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:06,500
+ Você sabia que o Brasil perdeu mais de cinco milhões de crianças de zero a quatorze anos em apenas doze anos segundo o Censo?
+ 
+ 2
+ 00:00:06,500 --> 00:00:14,800
+ Em 1980, quase quarenta por cento de toda a população brasileira era criança; hoje essa proporção despencou para menos de vinte por cento.
+ 
+ 3
+ 00:00:14,800 --> 00:00:22,000
+ Com a fecundidade em queda, salas de aula já estão esvaziando pelo país. Inscreva-se no Gráfico Aberto para ver os dados reais!
