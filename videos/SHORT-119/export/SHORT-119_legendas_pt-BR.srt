@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:05,000
+Você sabia que o Brasil já produz mais de 150 milhões de toneladas de soja ao ano?
+
+2
+00:00:05,010 --> 00:00:14,100
+Segundo a Conab e o USDA, nossa produção multiplicou por 10, transformando o Brasil no maior exportador do planeta!
+
+3
+00:00:14,110 --> 00:00:19,800
+Graças à ciência da Embrapa, o Cerrado virou o celeiro do mundo. Siga o Gráfico Aberto!
