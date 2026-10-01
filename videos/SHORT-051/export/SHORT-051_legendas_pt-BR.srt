@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:05,500
+ Você sabia que o Brasil deu um salto impressionante de trinta vezes na energia eólica em pouco mais de dez anos?
+ 
+ 2
+ 00:00:05,500 --> 00:00:13,700
+ Mais de oitenta e cinco por cento de todos os parques eólicos do país estão no Nordeste, com destaque absoluto para o Rio Grande do Norte e a Bahia.
+ 
+ 3
+ 00:00:13,700 --> 00:00:23,000
+ Graças aos ventos alísios constantes, nossas turbinas operam com eficiência muito superior à média mundial. Inscreva-se no Gráfico Aberto para acompanhar os dados reais!
