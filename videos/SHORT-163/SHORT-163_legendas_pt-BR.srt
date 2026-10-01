@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:05,038
+Você sabe quantas máquinas agrícolas e tratores trabalham na produção de alimentos no Brasil?
+
+2
+00:00:05,100 --> 00:00:13,343
+Segundo o IBGE e a Anfavea, a frota de tratores quadruplicou nas últimas décadas, transformando o Brasil em uma potência de agricultura de precisão!
+
+3
+00:00:13,400 --> 00:00:17,361
+Máquinas inteligentes que alimentam o Brasil e o mundo. Siga o Gráfico Aberto!
