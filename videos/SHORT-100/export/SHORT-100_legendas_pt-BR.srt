@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:07,400
+ Você sabia que o Brasil possui mais de duzentos e cinquenta milhões de smartphones ativos em uso e supera o número total de habitantes?
+ 
+ 2
+ 00:00:07,400 --> 00:00:14,400
+ Segundo o levantamento anual da Fundação Getúlio Vargas, temos cento e vinte celulares inteligentes para cada cem pessoas no país.
+ 
+ 3
+ 00:00:14,400 --> 00:00:21,800
+ Com mais de oitenta por cento das transações bancárias feitas na palma da mão, ele virou ferramenta essencial. Inscreva-se no Gráfico Aberto!
