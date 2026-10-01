@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:05,930
+A menor cidade do Brasil tem menos moradores que um único prédio de São Paulo!
+
+2
+00:00:05,930 --> 00:00:15,809
+No Censo do IBGE, Serra da Saudade (MG) tem só 833 moradores. Apenas 3 cidades têm < 1.000.
+
+3
+00:00:15,809 --> 00:00:24,735
+Enquanto isso, São Paulo capital tem 11,4 milhões de pessoas! Inscreva-se no canal.
+
