@@ -1,0 +1,11 @@
+﻿1
+00:00:00,000 --> 00:00:06,327
+Você sabia que quase metade dos lares brasileiros já tem um cachorro ou gato, superando o número de crianças no país?
+
+2
+00:00:06,400 --> 00:00:14,400
+Segundo o IBGE e o Instituto Pet Brasil, são mais de cento e sessenta milhões de animais, movimentando quase setenta bilhões de reais ao ano!
+
+3
+00:00:14,480 --> 00:00:18,772
+O afeto que redesenha as famílias e a economia nacional. Siga o Gráfico Aberto!
