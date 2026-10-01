@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:07,033
+O agro representa 7% ou 25% da economia do Brasil? Por que dois números tão diferentes?
+
+2
+00:00:07,033 --> 00:00:19,315
+No IBGE, a colheita é 7% do PIB. Mas a USP soma a cadeia inteira (indústria e logística): ~25%.
+
+3
+00:00:19,315 --> 00:00:26,871
+Além disso, o setor responde por metade de tudo o que o Brasil exporta! Siga o canal.
+
