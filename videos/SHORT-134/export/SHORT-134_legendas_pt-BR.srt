@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:04,600
+Você sabe qual é a capital do Brasil com mais carros por pessoa nas ruas?
+
+2
+00:00:04,610 --> 00:00:13,750
+Segundo a Senatran e o IBGE, em Curitiba e Florianópolis é quase 1 carro por pessoa; em Salvador e Belém, 5 pessoas por carro!
+
+3
+00:00:13,760 --> 00:00:18,500
+Mais carros trazem mais trânsito e menos espaço urbano. Siga o Gráfico Aberto!
