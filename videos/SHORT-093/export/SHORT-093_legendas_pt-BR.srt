@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:05,700
+ Você sabia que o Brasil possui a segunda maior frota de aviação agrícola de todo o planeta Terra em operação?
+ 
+ 2
+ 00:00:05,700 --> 00:00:14,400
+ Atrás apenas dos Estados Unidos, o país conta com mais de duas mil e seiscentas aeronaves, com liderança absoluta de Mato Grosso e Rio Grande do Sul.
+ 
+ 3
+ 00:00:14,400 --> 00:00:22,000
+ E o clássico Ipanema da Embraer é o único avião do mundo certificado para voar movido a etanol. Inscreva-se no Gráfico Aberto para ver os dados reais!
