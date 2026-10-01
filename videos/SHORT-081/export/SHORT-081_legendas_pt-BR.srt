@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:05,900
+ Você sabia que apenas cinco instituições financeiras concentram mais de setenta por cento de todo o dinheiro do Brasil?
+ 
+ 2
+ 00:00:05,900 --> 00:00:14,500
+ Itaú, Banco do Brasil, Bradesco, Caixa e Santander já chegaram a dominar mais de oitenta por cento de todos os empréstimos e depósitos nacionais.
+ 
+ 3
+ 00:00:14,500 --> 00:00:22,500
+ No entanto, a revolução do Pix, do Open Finance e das fintechs começou a abrir brechas. Inscreva-se no Gráfico Aberto para ver os dados reais!
