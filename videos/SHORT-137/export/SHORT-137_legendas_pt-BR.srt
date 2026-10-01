@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:06,300
+Você sabia que a internet 5G do Brasil é mais rápida que a de várias capitais da Europa e dos EUA?
+
+2
+00:00:06,310 --> 00:00:14,900
+Segundo a Opensignal e a Ookla, Brasília e São Paulo passam de 300 a 400 Mbps, o dobro da média americana!
+
+3
+00:00:14,910 --> 00:00:19,000
+O leilão brasileiro exigiu o padrão mais moderno do mundo. Siga o Gráfico Aberto!
