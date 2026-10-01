@@ -1,0 +1,11 @@
+﻿1
+00:00:00,000 --> 00:00:05,090
+Você já percebeu como os telhados do Brasil se encheram de painéis solares?
+
+2
+00:00:05,090 --> 00:00:16,220
+Segundo a Absolar, a energia solar saltou de 1 GW em 2017 para 46 GW em 2024: 2ª maior fonte do país!
+
+3
+00:00:16,220 --> 00:00:24,160
+Mais de 70% vêm de telhados de casas e comércios. Inscreva-se no Gráfico Aberto!
