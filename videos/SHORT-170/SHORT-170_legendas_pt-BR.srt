@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:04,214
+Você sabe quanta da energia que ilumina as casas brasileiras vem de usinas nucleares?
+
+2
+00:00:04,270 --> 00:00:13,871
+Segundo a Eletronuclear e o ONS, os reatores nucleares geram quase três por cento de toda a eletricidade do país, operando na base do sistema com zero emissão de carbono!
+
+3
+00:00:13,930 --> 00:00:18,483
+Energia firme e contínua para sustentar as nossas cidades. Siga o Gráfico Aberto!
