@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:07,550
+O Brasil tem 93% de alfabetizados, mas quase 30% da população adulta é analfabeta funcional!
+
+2
+00:00:07,560 --> 00:00:15,350
+Segundo o INAF, 3 em cada 10 brasileiros não conseguem interpretar uma notícia simples ou a bula de um remédio!
+
+3
+00:00:15,360 --> 00:00:20,800
+Saber juntar letras não basta: o futuro exige interpretação de dados. Siga o Gráfico Aberto!
