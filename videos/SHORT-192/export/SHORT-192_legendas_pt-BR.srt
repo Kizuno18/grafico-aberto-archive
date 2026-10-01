@@ -1,0 +1,11 @@
+﻿1
+00:00:00,000 --> 00:00:06,095
+Você sabia que a taxa de mortes no trânsito por habitante despencou no Brasil após o endurecimento das leis de trânsito?
+
+2
+00:00:06,160 --> 00:00:13,600
+Segundo o DataSUS e a Senatran, a tolerância zero com o álcool e os radares salvaram dezenas de milhares de vidas em duas décadas!
+
+3
+00:00:13,680 --> 00:00:19,162
+Dados comprovam: rigor na fiscalização preserva famílias e transforma o país. Siga o Gráfico Aberto!
