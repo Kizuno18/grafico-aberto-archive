@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:05,300
+ Você sabia que um em cada cinco lares no Brasil hoje é alugado segundo os dados oficiais do Censo?
+ 
+ 2
+ 00:00:05,300 --> 00:00:13,600
+ Sessenta e quatro por cento dos domicílios são próprios e quitados, vinte por cento alugados, nove por cento cedidos e seis por cento financiados.
+ 
+ 3
+ 00:00:13,600 --> 00:00:21,000
+ Nas grandes capitais, o aluguel consome mais de trinta por cento da renda. Inscreva-se no Gráfico Aberto para acompanhar os dados reais!
