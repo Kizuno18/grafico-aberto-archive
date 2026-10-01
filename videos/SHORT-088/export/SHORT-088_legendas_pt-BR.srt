@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:06,300
+ Você sabia que seis de cada dez servidores públicos do Brasil não trabalham em Brasília, mas sim no seu próprio município?
+ 
+ 2
+ 00:00:06,300 --> 00:00:14,600
+ São quase doze milhões de vínculos no país: sessenta por cento nas prefeituras, trinta por cento nos estados e apenas dez por cento na esfera federal.
+ 
+ 3
+ 00:00:14,600 --> 00:00:22,800
+ A maioria atua na educação básica e saúde pública, com proporção menor que na OCDE. Inscreva-se no Gráfico Aberto para ver os dados reais!
