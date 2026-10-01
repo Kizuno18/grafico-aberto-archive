@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:05,178
+Você sabia que a maioria dos novos universitários brasileiros já estuda pela tela do computador?
+
+2
+00:00:05,240 --> 00:00:13,668
+Segundo o Censo da Educação Superior do Inep, dois em cada três novos alunos entram no ensino a distância, invertendo completamente o modelo tradicional!
+
+3
+00:00:13,740 --> 00:00:19,171
+Democratizar o diploma é vital, mas garantir a qualidade é o grande desafio. Siga o Gráfico Aberto!
