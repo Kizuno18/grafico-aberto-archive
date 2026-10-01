@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:06,400
+ Você sabia que o maior imposto de todo o Brasil é cobrado pelos estados e arrecada mais de setecentos bilhões ao ano?
+ 
+ 2
+ 00:00:06,400 --> 00:00:14,700
+ O ICMS representa oitenta e cinco por cento de tudo o que os estados arrecadam, puxado principalmente por combustíveis, energia e telefonia.
+ 
+ 3
+ 00:00:14,700 --> 00:00:22,200
+ Com a Reforma Tributária, esse gigante será extinto até 2033. Inscreva-se no Gráfico Aberto para entender o novo imposto!
