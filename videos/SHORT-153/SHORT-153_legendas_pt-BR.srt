@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:04,771
+Você sabe qual é a idade média dos ônibus que você pega todos os dias para trabalhar?
+
+2
+00:00:04,830 --> 00:00:12,968
+Segundo a NTU, a frota urbana brasileira atingiu a idade média mais alta em três décadas, com mais de cem mil coletivos precisando urgente de renovação!
+
+3
+00:00:13,030 --> 00:00:17,660
+Transporte público moderno e pontual atrai o passageiro de volta. Siga o Gráfico Aberto!
