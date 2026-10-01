@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:04,950
+Você sabia que a maior parte dos alunos federais não estuda mais nas capitais?
+
+2
+00:00:04,960 --> 00:00:14,400
+Segundo o Inep e o MEC, mais de 55% das vagas públicas federais hoje estão em campi do interior, cobrindo 650 cidades!
+
+3
+00:00:14,410 --> 00:00:19,400
+Formação gratuita e de ponta sem sair de perto de casa. Siga o Gráfico Aberto!
