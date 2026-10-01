@@ -1,0 +1,11 @@
+﻿1
+00:00:00,000 --> 00:00:06,100
+Você já somou quanto tempo da sua vida você perde no trânsito ou no ônibus todo dia?
+
+2
+00:00:06,100 --> 00:00:14,890
+Segundo o IPEA, em SP e no Rio, o trabalhador gasta em média quase 2 horas diárias no trajeto!
+
+3
+00:00:14,890 --> 00:00:22,800
+E mais de 85% dessas viagens são em ônibus urbanos. Inscreva-se no Gráfico Aberto!
