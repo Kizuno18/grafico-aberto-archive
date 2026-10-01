@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:05,200
+ Você sabia que o Brasil multiplicou por oito a formação de doutores nos últimos vinte e cinco anos?
+ 
+ 2
+ 00:00:05,200 --> 00:00:14,000
+ Em 1996, o país formava menos de três mil doutores anuais. Hoje, são mais de vinte e quatro mil cientistas titulados a cada ano.
+ 
+ 3
+ 00:00:14,000 --> 00:00:21,200
+ Mas quase setenta por cento ficam na universidade, e menos de dois por cento vão para as indústrias. Inscreva-se no Gráfico Aberto!
