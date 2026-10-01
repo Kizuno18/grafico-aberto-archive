@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:06,400
+ Você sabia que mais de quatro milhões e meio de brasileiros vivem fora do país atualmente segundo as estimativas do Itamaraty?
+ 
+ 2
+ 00:00:06,400 --> 00:00:14,200
+ Quase dois milhões moram nos Estados Unidos e meio milhão em Portugal, além de contingentes expressivos no Paraguai, no Reino Unido e no Japão.
+ 
+ 3
+ 00:00:14,200 --> 00:00:22,200
+ Essa comunidade vibrante envia mais de vinte bilhões de reais para familiares no Brasil todos os anos. Inscreva-se no Gráfico Aberto para ver o mapa real!
