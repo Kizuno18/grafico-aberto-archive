@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:06,000
+ Você sabia que o Brasil possui nada menos que seis milhões de mulheres a mais do que homens segundo o Censo do IBGE?
+ 
+ 2
+ 00:00:06,000 --> 00:00:14,300
+ Em grandes capitais como Recife, Salvador e Rio de Janeiro, essa diferença dispara e chega a quase cento e vinte mulheres para cada cem homens.
+ 
+ 3
+ 00:00:14,300 --> 00:00:22,400
+ A maior longevidade feminina e a busca por oportunidades nos centros urbanos explicam o mapa. Inscreva-se no Gráfico Aberto para ver os dados reais!
