@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:05,900
+ Você sabia que os acidentes de transporte e trânsito no Brasil tiram mais de trinta e três mil vidas todos os anos?
+ 
+ 2
+ 00:00:05,900 --> 00:00:14,400
+ Os ocupantes de motocicletas são as principais vítimas, respondendo por quase quarenta por cento das mortes, seguidos por ocupantes de carros e pedestres.
+ 
+ 3
+ 00:00:14,400 --> 00:00:23,100
+ O custo dessa tragédia para o país supera cinquenta bilhões de reais ao ano entre SUS e previdência. Inscreva-se no Gráfico Aberto para ver a realidade!
