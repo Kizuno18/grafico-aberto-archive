@@ -1,0 +1,11 @@
+﻿1
+00:00:00,000 --> 00:00:05,440
+Você sabia que o número de assassinatos no Brasil caiu mais de 30% nos últimos anos?
+
+2
+00:00:05,440 --> 00:00:16,720
+Após o pico de 65 mil mortes em 2017, a taxa recuou de 31 para 21 por 100 mil habitantes!
+
+3
+00:00:16,720 --> 00:00:26,040
+Porém, São Paulo tem taxa < 7 enquanto outros estados passam de 35. Inscreva-se!
