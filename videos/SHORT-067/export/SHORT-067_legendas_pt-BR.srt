@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:05,800
+ Você lembra quando a internet banda larga de casa tinha apenas cinco ou dez megas e caía sempre que começava a chover?
+ 
+ 2
+ 00:00:05,800 --> 00:00:15,900
+ Em apenas dez anos, a velocidade média no Brasil saltou de menos de dez para mais de cento e cinquenta megas, com mais de setenta e cinco por cento das conexões em fibra óptica.
+ 
+ 3
+ 00:00:15,900 --> 00:00:24,300
+ E os grandes protagonistas dessa revolução foram os pequenos e médios provedores de internet no interior. Inscreva-se no Gráfico Aberto para ver os dados reais!
