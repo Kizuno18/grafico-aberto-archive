@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:04,562
+Você sabe quantos brasileiros têm cem anos ou mais de idade vivos hoje no nosso país?
+
+2
+00:00:04,620 --> 00:00:12,410
+Segundo o Censo do IBGE, são quase trinta e oito mil centenários no Brasil, com Bahia e São Paulo liderando o ranking dos longevos!
+
+3
+00:00:12,480 --> 00:00:16,370
+Viver muito e viver bem é a grande meta do século. Siga o Gráfico Aberto!
