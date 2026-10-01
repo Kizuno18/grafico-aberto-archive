@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:06,931
+Você sabia que os ônibus fazem mais de 30 milhões de viagens por dia nas cidades brasileiras?
+
+2
+00:00:06,931 --> 00:00:12,863
+Segundo a NTU, o ônibus transporta mais de 80% de todas as pessoas no transporte coletivo urbano!
+
+3
+00:00:12,863 --> 00:00:20,781
+Cidades inteligentes precisam de transporte público moderno. Quer dados reais? Siga o Gráfico Aberto!
