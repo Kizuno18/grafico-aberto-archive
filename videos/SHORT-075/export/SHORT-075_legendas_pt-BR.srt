@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:06,900
+ Você sabia que quase onze milhões de jovens entre quinze e vinte e nove anos no Brasil não trabalham e nem estudam segundo o IBGE?
+ 
+ 2
+ 00:00:06,900 --> 00:00:14,200
+ Dois terços de todo esse grupo são mulheres, em sua maioria sobrecarregadas com o cuidado de filhos pequenos e afazeres domésticos no lar.
+ 
+ 3
+ 00:00:14,200 --> 00:00:22,600
+ Essa realidade coloca o Brasil entre as piores taxas de jovens sem estudo ou emprego da OCDE. Inscreva-se no Gráfico Aberto para ver os dados reais!
