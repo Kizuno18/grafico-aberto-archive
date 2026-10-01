@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:04,632
+Você sabia que o Brasil é o quinto maior produtor de roupas e tecidos de todo o planeta?
+
+2
+00:00:04,700 --> 00:00:15,183
+Segundo a Abit e o IBGE, o setor têxtil brasileiro emprega um milhão e meio de pessoas diretas, sendo setenta e cinco por cento mulheres, e fatura quase duzentos bilhões de reais por ano!
+
+3
+00:00:15,250 --> 00:00:20,691
+Somos o único país do Ocidente com a cadeia produtiva cem por cento completa. Siga o Gráfico Aberto!
