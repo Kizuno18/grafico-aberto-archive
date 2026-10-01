@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:04,250
+Você sabe quais são os aeroportos mais movimentados do Brasil?
+
+2
+00:00:04,260 --> 00:00:12,700
+Segundo a Anac, Guarulhos lidera com mais de 40 milhões de passageiros, seguido por Congonhas, Brasília e Viracopos!
+
+3
+00:00:12,710 --> 00:00:18,500
+Só os três terminais paulistas concentram mais da metade do tráfego aéreo. Siga o Gráfico Aberto!
