@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:07,800
+ Você sabia que em um em cada cinco lares com pessoas idosas no Brasil, a aposentadoria ou pensão do INSS é a única fonte de renda da casa?
+ 
+ 2
+ 00:00:07,800 --> 00:00:15,900
+ Em setenta por cento dos municípios do país, o dinheiro repassado aos aposentados é maior do que todo o Fundo de Participação que a prefeitura recebe.
+ 
+ 3
+ 00:00:15,900 --> 00:00:24,000
+ Estimativas do Ipea apontam que sem a previdência, metade dos idosos estaria na extrema pobreza. Inscreva-se no Gráfico Aberto para ver os dados reais!
