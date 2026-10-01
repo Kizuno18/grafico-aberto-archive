@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:05,600
+ Você sabia que o Brasil vive a transição religiosa mais rápida do mundo ocidental segundo os dados do IBGE?
+ 
+ 2
+ 00:00:05,600 --> 00:00:15,900
+ Em 1980, noventa por cento eram católicos e apenas seis por cento evangélicos. Hoje os católicos caíram para metade e os evangélicos já passam de trinta por cento.
+ 
+ 3
+ 00:00:15,900 --> 00:00:22,600
+ O crescimento é mais forte nas periferias e entre as mulheres. Inscreva-se no Gráfico Aberto para acompanhar os dados reais!
