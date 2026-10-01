@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:06,700
+ Quando você abastece o carro e paga seis reais por litro de gasolina, você sabe exatamente para quem vai cada centavo desse dinheiro?
+ 
+ 2
+ 00:00:06,700 --> 00:00:15,800
+ Apenas cerca de um terço do valor vai para a refinaria da Petrobras. Um terço inteiro é imposto estadual e federal, e o restante divide-se em etanol e lucro dos postos.
+ 
+ 3
+ 00:00:15,800 --> 00:00:23,200
+ Somando ICMS e impostos federais, a tributação consome um terço de tudo. Inscreva-se no Gráfico Aberto para ver os dados reais!
