@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:05,050
+Você sabia que 3 em cada 5 copos de suco de laranja tomados no mundo vêm do Brasil?
+
+2
+00:00:05,060 --> 00:00:15,300
+Segundo a CitrusBR e o MDIC, o Brasil responde por quase 80% do suco exportado no planeta, gerando mais de US$ 2 bilhões ao ano!
+
+3
+00:00:15,310 --> 00:00:22,600
+O interior paulista abastece a Europa e os EUA. Inscreva-se no Gráfico Aberto!
