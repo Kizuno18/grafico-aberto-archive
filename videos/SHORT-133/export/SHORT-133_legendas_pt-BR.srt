@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:05,350
+Você já percebeu como os telhados do Brasil estão ficando azuis de tanta placa solar?
+
+2
+00:00:05,360 --> 00:00:13,600
+Segundo a Aneel e a Absolar, a energia solar nos telhados saltou de quase zero para 30 gigawatts, superando 2 Itaipus!
+
+3
+00:00:13,610 --> 00:00:19,000
+O cidadão virou produtor da própria energia e baixou a conta. Siga o Gráfico Aberto!
