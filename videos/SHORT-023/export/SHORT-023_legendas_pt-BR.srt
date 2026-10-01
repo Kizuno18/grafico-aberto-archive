@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:06,650
+O Brasil tem quase 10 milhões de universitários, 4x mais do que no ano 2000!
+
+2
+00:00:06,650 --> 00:00:16,946
+No Inep, as faculdades privadas têm 78% das vagas e mais de 65% dos calouros estudam via EAD.
+
+3
+00:00:16,946 --> 00:00:26,000
+A fatia de adultos formados triplicou (de 7% para 21%). Inscreva-se no Gráfico Aberto!
+
