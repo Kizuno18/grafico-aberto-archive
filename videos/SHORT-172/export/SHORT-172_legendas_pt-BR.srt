@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:04,655
+Você sabia que quase noventa por cento de toda a população brasileira já mora em cidades?
+
+2
+00:00:04,710 --> 00:00:12,732
+Segundo o Censo do IBGE, a população rural encolheu para apenas doze por cento, enquanto o campo produz safras recordes com altíssima tecnologia!
+
+3
+00:00:12,800 --> 00:00:17,978
+Menos gente no campo, mas muito mais tecnologia e produtividade. Siga o Gráfico Aberto!
