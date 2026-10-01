@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:06,500
+Você sabia que no Brasil já existem mais do que o dobro de cães e gatos em relação ao número de crianças?
+
+2
+00:00:06,510 --> 00:00:14,600
+Segundo o IBGE e o Instituto Pet Brasil, temos 40 milhões de crianças contra mais de 90 milhões de pets!
+
+3
+00:00:14,610 --> 00:00:22,000
+Com famílias menores, o pet virou membro oficial da casa. Siga o Gráfico Aberto!
