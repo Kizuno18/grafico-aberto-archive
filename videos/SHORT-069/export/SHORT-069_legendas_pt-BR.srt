@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:05,600
+ Você sabia que os remédios genéricos já economizaram mais de trezentos bilhões de reais no bolso dos brasileiros?
+ 
+ 2
+ 00:00:05,600 --> 00:00:14,200
+ Hoje eles representam quase quarenta por cento de todos os remédios vendidos, e mais de setenta por cento dos tratamentos contínuos de hipertensão e diabetes.
+ 
+ 3
+ 00:00:14,200 --> 00:00:20,900
+ E oitenta e cinco por cento deles são fabricados aqui no país. Inscreva-se no Gráfico Aberto para ver a ciência dos dados!
