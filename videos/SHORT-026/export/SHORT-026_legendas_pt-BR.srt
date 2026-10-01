@@ -1,0 +1,11 @@
+﻿1
+00:00:00,000 --> 00:00:06,020
+Você sabia que mais de 1.300 cidades no Brasil já têm mais idosos que crianças?
+
+2
+00:00:06,020 --> 00:00:13,680
+Segundo o IBGE, Coqueiro Baixo (RS) lidera com quase 3 idosos para cada criança!
+
+3
+00:00:13,680 --> 00:00:21,460
+Porto Alegre e Rio lideram nas capitais. Inscreva-se no Gráfico Aberto!
