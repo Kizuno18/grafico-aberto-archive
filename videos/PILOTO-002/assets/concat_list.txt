@@ -1,0 +1,4 @@
+file 'C:\Users\Big\Documents\ChatGPT\Youtube Channel\videos\PILOTO-002\assets\scene1.mp4'
+file 'C:\Users\Big\Documents\ChatGPT\Youtube Channel\videos\PILOTO-002\assets\scene2.mp4'
+file 'C:\Users\Big\Documents\ChatGPT\Youtube Channel\videos\PILOTO-002\assets\scene3.mp4'
+file 'C:\Users\Big\Documents\ChatGPT\Youtube Channel\videos\PILOTO-002\assets\scene4.mp4'
