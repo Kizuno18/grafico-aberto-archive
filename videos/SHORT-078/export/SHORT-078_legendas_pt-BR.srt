@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:06,600
+ Você sabia que dois em cada três novos estudantes que ingressam no ensino superior brasileiro hoje optam por cursos à distância?
+ 
+ 2
+ 00:00:06,600 --> 00:00:15,800
+ Em 2012 o ensino presencial concentrava mais de oitenta por cento dos calouros; hoje o EAD disparou com mensalidades bem mais acessíveis para quem trabalha.
+ 
+ 3
+ 00:00:15,800 --> 00:00:23,100
+ No entanto, as taxas de evasão superam cinquenta por cento dos matriculados. Inscreva-se no Gráfico Aberto para ver os dados reais!
