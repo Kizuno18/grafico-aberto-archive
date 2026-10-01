@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:07,000
+ Você sabia que o Brasil multiplicou por mais de seis vezes a sua colheita de grãos sem precisar expandir a área plantada na mesma proporção?
+ 
+ 2
+ 00:00:07,000 --> 00:00:15,100
+ Na década de setenta colhíamos quarenta e sete milhões de toneladas. Hoje a produção nacional supera a marca histórica de trezentos milhões de toneladas.
+ 
+ 3
+ 00:00:15,100 --> 00:00:23,500
+ A biotecnologia da Embrapa e o plantio direto transformaram a produtividade no campo. Inscreva-se no Gráfico Aberto para acompanhar os dados reais!
