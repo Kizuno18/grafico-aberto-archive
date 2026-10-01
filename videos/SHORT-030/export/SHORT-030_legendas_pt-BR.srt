@@ -1,0 +1,11 @@
+﻿1
+00:00:00,000 --> 00:00:04,970
+Você sabe quanto o Brasil investe por aluno na escola em relação aos países ricos?
+
+2
+00:00:04,970 --> 00:00:15,220
+Segundo a OCDE, o Brasil investe US$ 3.500 por aluno ao ano, contra mais de US$ 11.000 da OCDE!
+
+3
+00:00:15,220 --> 00:00:22,960
+Em % do PIB gastamos o mesmo (~6%), mas a renda por jovem é menor. Inscreva-se!
