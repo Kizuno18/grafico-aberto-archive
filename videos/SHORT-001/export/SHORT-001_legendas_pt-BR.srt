@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:06,766
+O Brasil envelheceu 6 anos em apenas 12 anos, segundo o Censo do IBGE.
+
+2
+00:00:06,766 --> 00:00:15,843
+Em 1980, jovens de 0 a 14 anos eram 40% da população. Hoje são menos de 20%.
+
+3
+00:00:15,843 --> 00:00:21,647
+Já o número de idosos explodiu: são 55 idosos para cada 100 crianças.
+
+4
+00:00:21,647 --> 00:00:28,297
+O bônus demográfico está no fim. Inscreva-se no Gráfico Aberto!
+
