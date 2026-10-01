@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:06,600
+ Você sabia que o Brasil é o segundo maior país consumidor de café de todo o planeta Terra, atrás apenas dos Estados Unidos?
+ 
+ 2
+ 00:00:06,600 --> 00:00:14,400
+ Nós produzimos cerca de um terço de todo o café do mundo, mas quarenta por cento da nossa safra gigantesca é bebida aqui mesmo no mercado interno.
+ 
+ 3
+ 00:00:14,400 --> 00:00:21,900
+ A média nacional chega a quase mil xícaras de café por habitante a cada ano. Inscreva-se no Gráfico Aberto para acompanhar os dados reais!
