@@ -1,0 +1,11 @@
+ 1
+ 00:00:00,000 --> 00:00:06,100
+ Você sabia que o grupo etário que mais cresce em ritmo acelerado no Brasil é o de pessoas com mais de oitenta anos de idade?
+ 
+ 2
+ 00:00:06,100 --> 00:00:15,600
+ Segundo os dados do Censo do IBGE, esse contingente saltou de menos de três milhões para quatro milhões e seiscentas mil pessoas, com mais de sessenta por cento de mulheres.
+ 
+ 3
+ 00:00:15,600 --> 00:00:23,300
+ E mais de trinta e sete mil brasileiros já ultrapassaram a marca dos cem anos de vida. Inscreva-se no Gráfico Aberto para ver os dados reais!
