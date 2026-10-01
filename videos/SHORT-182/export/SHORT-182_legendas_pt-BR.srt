@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:04,643
+Você sabe qual região do Brasil mais reduziu o analfabetismo entre os censos do IBGE?
+
+2
+00:00:04,700 --> 00:00:13,511
+Segundo o Censo do IBGE, o Nordeste liderou a maior queda proporcional de analfabetismo da história, ensinando milhões de crianças e adultos a ler e escrever!
+
+3
+00:00:13,580 --> 00:00:18,295
+A educação básica de qualidade transforma realidades e vidas. Siga o Gráfico Aberto!
