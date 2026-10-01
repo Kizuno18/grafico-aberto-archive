@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:28,247
+Quase 88% de toda a eletricidade consumida no Brasil vem de fontes renováveis.
+Enquanto isso, a média mundial de renováveis na eletricidade é de apenas 30%.
+
+2
+00:00:28,247 --> 00:00:55,021
+As usinas hidrelétricas respondem por 58% da geração nacional.
+Mas eólica, solar e biomassa explodiram e já geram quase um terço de toda a nossa luz.
+
+3
+00:00:55,021 --> 00:01:18,845
+O resto do mundo ainda queima muito carvão (35%) e gás natural (23%).
+No Brasil, o carvão mineral não chega sequer a 2% da nossa eletricidade.
+
+4
+00:01:18,845 --> 00:01:38,432
+Nossa matriz na tomada é uma das mais limpas do planeta.
+Inscreva-se no Gráfico Aberto para mais dados oficiais!
+
