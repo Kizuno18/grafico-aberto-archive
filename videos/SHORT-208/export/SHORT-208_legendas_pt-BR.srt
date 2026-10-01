@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:07,558
+Você sabia que mais de 60% dos novos universitários no Brasil estudam a distância?
+
+2
+00:00:07,558 --> 00:00:13,374
+Segundo o Inep, o EAD superou as aulas presenciais e hoje domina as novas matrículas no país!
+
+3
+00:00:13,374 --> 00:00:21,338
+Mais facilidade de acesso, mas o desafio é concluir o curso. Quer dados reais? Siga o Gráfico Aberto!
