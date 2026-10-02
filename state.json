@@ -1,0 +1,2215 @@
+{
+  "atualizado": "2026-10-02T18:07:41-0300",
+  "fase": "SEMANA_2_EM_PRODUCAO",
+  "diretriz": "PROMPT_MESTRE_V3",
+  "mecanismo_local_persistente": "AGENTS.md",
+  "canal": {
+    "id": "UC4714G25E70-l5N09XGWW8g",
+    "nome": "GrÃ¡fico Aberto",
+    "handle": "@ograficoaberto",
+    "url": "https://www.youtube.com/channel/UC4714G25E70-l5N09XGWW8g"
+  },
+  "catalogo_ativo": [
+    {
+      "id": "PILOTO-001",
+      "tipo": "video_longo",
+      "video_id": "8oMMXCKxj-E",
+      "url": "https://youtu.be/8oMMXCKxj-E",
+      "titulo": "A PirÃ¢mide EtÃ¡ria do Brasil Encolheu: Os Dados que Mudam o PaÃ­s",
+      "playlist": "PLQqDlBP1kQL8"
+    },
+    {
+      "id": "SHORT-001",
+      "tipo": "short_vertical",
+      "video_id": "L1U4HrbNPzw",
+      "url": "https://youtube.com/shorts/L1U4HrbNPzw",
+      "titulo": "O Brasil Envelheceu 6 Anos em Apenas 12 Anos #Shorts",
+      "playlist": "PLQqDlBP1kQL8"
+    },
+    {
+      "id": "PILOTO-002",
+      "tipo": "video_longo",
+      "video_id": "oBEnsg6M3Mk",
+      "url": "https://youtu.be/oBEnsg6M3Mk",
+      "titulo": "R$ 100 em 1994 vs R$ 100 Hoje: O Que Sobrou do Nosso Dinheiro?",
+      "playlist": "PLd8tt0FcN3Fg"
+    },
+    {
+      "id": "SHORT-002",
+      "tipo": "short_vertical",
+      "video_id": "PUvpLWONctQ",
+      "url": "https://youtube.com/shorts/PUvpLWONctQ",
+      "titulo": "R$ 100 em 1994 vs R$ 100 Hoje #Shorts",
+      "playlist": "PLd8tt0FcN3Fg"
+    },
+    {
+      "id": "PILOTO-003",
+      "tipo": "video_longo",
+      "video_id": "hodMPINHpIA",
+      "url": "https://youtu.be/hodMPINHpIA",
+      "titulo": "De Onde Vem a Energia do Brasil? A Matriz ElÃ©trica (Brasil vs Mundo)",
+      "playlist": "PLCoz7s5-zygg"
+    },
+    {
+      "id": "SHORT-003",
+      "tipo": "short_vertical",
+      "video_id": "FVwTtb1kf6I",
+      "url": "https://youtube.com/shorts/FVwTtb1kf6I",
+      "titulo": "De Onde Vem a Energia do Brasil? Brasil vs Mundo #Shorts",
+      "playlist": "PLCoz7s5-zygg"
+    },
+    {
+      "id": "SHORT-004",
+      "tipo": "short_vertical",
+      "video_id": "tRS2wouIyOs",
+      "url": "https://youtube.com/shorts/tRS2wouIyOs",
+      "titulo": "De 6 Filhos para Menos de 2: A Queda da Fecundidade no Brasil #Shorts",
+      "playlist": "PLQqDlBP1kQL8"
+    },
+    {
+      "id": "SHORT-005",
+      "tipo": "short_vertical",
+      "video_id": "yIAvScPpvBA",
+      "url": "https://youtube.com/shorts/yIAvScPpvBA",
+      "titulo": "Para Onde os Brasileiros EstÃ£o Indo? O Censo Revela #Shorts",
+      "playlist": "PLQqDlBP1kQL8"
+    },
+    {
+      "id": "SHORT-006",
+      "tipo": "short_vertical",
+      "video_id": "hGfXjehI80U",
+      "url": "https://youtube.com/shorts/hGfXjehI80U",
+      "titulo": "Quem Realmente Paga Mais Imposto no Brasil? #Shorts",
+      "playlist": "PLd8tt0FcN3Fg"
+    },
+    {
+      "id": "PILOTO-004",
+      "tipo": "video_longo",
+      "video_id": "79NX9t-gFqk",
+      "url": "https://youtu.be/79NX9t-gFqk",
+      "titulo": "Quem Realmente Paga a Conta? A Estrutura dos Impostos no Brasil",
+      "playlist": "PLd8tt0FcN3Fg"
+    },
+    {
+      "id": "SHORT-007",
+      "tipo": "short_vertical",
+      "video_id": "KS9XcdjwNUo",
+      "url": "https://youtube.com/shorts/KS9XcdjwNUo",
+      "titulo": "Quanto o SalÃ¡rio MÃ­nimo Realmente Subiu Acima da InflaÃ§Ã£o? #Shorts",
+      "playlist": "PLd8tt0FcN3Fg"
+    },
+    {
+      "id": "SHORT-008",
+      "tipo": "short_vertical",
+      "video_id": "y6zvkiPTwFQ",
+      "url": "https://youtube.com/shorts/y6zvkiPTwFQ",
+      "titulo": "Quantos Brasileiros JÃ¡ Moram em Apartamento? O Censo Revela #Shorts",
+      "playlist": "PLQqDlBP1kQL8"
+    },
+    {
+      "id": "SHORT-009",
+      "tipo": "short_vertical",
+      "video_id": "lNXVec8Euz4",
+      "url": "https://youtube.com/shorts/lNXVec8Euz4",
+      "titulo": "Por Que o Trabalhador Brasileiro Produz 4x Menos? #Shorts",
+      "playlist": "PLCoz7s5-zygg"
+    },
+    {
+      "id": "SHORT-010",
+      "tipo": "short_vertical",
+      "video_id": "Jk7vib7B0AU",
+      "url": "https://youtube.com/shorts/Jk7vib7B0AU",
+      "titulo": "O Brasil Tem Mais Motos que Carros? O GrÃ¡fico da Frota #Shorts",
+      "playlist": "PLCoz7s5-zygg"
+    },
+    {
+      "id": "SHORT-011",
+      "tipo": "short_vertical",
+      "video_id": "i93ibUyK5GI",
+      "url": "https://youtube.com/shorts/i93ibUyK5GI",
+      "titulo": "A Montanha-Russa da Selic: De 45% a 2% ao Ano #Shorts",
+      "playlist": "PLd8tt0FcN3Fg"
+    },
+    {
+      "id": "SHORT-012",
+      "tipo": "short_vertical",
+      "video_id": "-5Qyr2BumKU",
+      "url": "https://youtube.com/shorts/-5Qyr2BumKU",
+      "titulo": "O Brasil Ficou Menos Desigual em 30 Anos? Os Dados do Gini #Shorts",
+      "playlist": "PLQqDlBP1kQL8"
+    },
+    {
+      "id": "SHORT-013",
+      "tipo": "short_vertical",
+      "video_id": "p_Uh3-O5JJI",
+      "url": "https://youtube.com/shorts/p_Uh3-O5JJI",
+      "titulo": "1 em Cada 5 Lares no Brasil Tem Apenas 1 Morador! #Shorts",
+      "playlist": "PLQqDlBP1kQL8"
+    },
+    {
+      "id": "SHORT-014",
+      "tipo": "short_vertical",
+      "video_id": "Zq3aHFYv2gE",
+      "url": "https://youtube.com/shorts/Zq3aHFYv2gE",
+      "titulo": "O Brasileiro Vivia SÃ³ 45 Anos em 1940! O Salto da Longevidade #Shorts",
+      "playlist": "PLQqDlBP1kQL8"
+    },
+    {
+      "id": "SHORT-015",
+      "tipo": "short_vertical",
+      "video_id": "jv1Tb5BB4pY",
+      "url": "https://youtube.com/shorts/jv1Tb5BB4pY",
+      "titulo": "Mais de 60% dos Brasileiros SÃ³ Usam Internet no Celular! #Shorts",
+      "playlist": "PLCoz7s5-zygg"
+    },
+    {
+      "id": "SHORT-016",
+      "tipo": "short_vertical",
+      "video_id": "rJRRJpLFoaY",
+      "url": "https://youtube.com/shorts/rJRRJpLFoaY",
+      "titulo": "Para Quem o Brasil Deve Quase 9 TrilhÃµes de Reais? #Shorts",
+      "playlist": "PLd8tt0FcN3Fg"
+    },
+    {
+      "id": "SHORT-017",
+      "tipo": "short_vertical",
+      "video_id": "UlEvIJY5LDQ",
+      "url": "https://youtube.com/shorts/UlEvIJY5LDQ",
+      "titulo": "O Agro Ã‰ 7% ou 25% do PIB? O GrÃ¡fico que Explica Tudo #Shorts",
+      "playlist": "PLd8tt0FcN3Fg"
+    },
+    {
+      "id": "SHORT-018",
+      "tipo": "short_vertical",
+      "video_id": "hPap-P-Ytrk",
+      "url": "https://youtube.com/shorts/hPap-P-Ytrk",
+      "titulo": "Por Que o Brasil Guarda US$ 350 BilhÃµes em Reservas? #Shorts",
+      "playlist": "PLd8tt0FcN3Fg"
+    },
+    {
+      "id": "SHORT-019",
+      "tipo": "short_vertical",
+      "video_id": "7DYEBitIblk",
+      "url": "https://youtube.com/shorts/7DYEBitIblk",
+      "titulo": "A Menor Cidade do Brasil Tem SÃ³ 833 Moradores! #Shorts",
+      "playlist": "PLQqDlBP1kQL8"
+    },
+    {
+      "id": "SHORT-020",
+      "tipo": "short_vertical",
+      "video_id": "WeFngTW57ys",
+      "url": "https://youtube.com/shorts/WeFngTW57ys",
+      "titulo": "O Que Aconteceu com os Trens do Brasil? #Shorts",
+      "playlist": "PLCoz7s5-zygg"
+    },
+    {
+      "id": "SHORT-021",
+      "tipo": "short_vertical",
+      "video_id": "b-i1eUXP0d4",
+      "url": "https://youtube.com/shorts/b-i1eUXP0d4",
+      "titulo": "Casando Mais Velhos e Divorciando Mais Cedo: O Que o IBGE Mostra #Shorts",
+      "playlist": "PLQqDlBP1kQL8"
+    },
+    {
+      "id": "SHORT-022",
+      "tipo": "short_vertical",
+      "video_id": "kBQsMOyHFvg",
+      "url": "https://youtube.com/shorts/kBQsMOyHFvg",
+      "titulo": "Mais de 75 MilhÃµes Sem Esgoto! O Mapa do Saneamento #Shorts",
+      "playlist": "PLQqDlBP1kQL8"
+    },
+    {
+      "id": "SHORT-023",
+      "tipo": "short_vertical",
+      "video_id": "o6g2ykdyB4c",
+      "url": "https://youtube.com/shorts/o6g2ykdyB4c",
+      "titulo": "Quase 10 MilhÃµes na Faculdade! O GrÃ¡fico do Ensino Superior #Shorts",
+      "playlist": "PLQqDlBP1kQL8"
+    },
+    {
+      "id": "SHORT-024",
+      "tipo": "short_vertical",
+      "video_id": "7F49WWa4YMs",
+      "url": "https://youtube.com/shorts/7F49WWa4YMs",
+      "titulo": "O Que o Brasil Mais Vende pro Mundo? O Top 3 das ExportaÃ§Ãµes #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-21T21:55:58-0300"
+    },
+    {
+      "id": "SHORT-025",
+      "tipo": "short_vertical",
+      "video_id": "PBXHaGQ6zqw",
+      "url": "https://youtube.com/shorts/PBXHaGQ6zqw",
+      "titulo": "A Montanha-Russa do Desemprego no Brasil: De 15% a 6,8% #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-26T14:44:29-0300"
+    },
+    {
+      "id": "SHORT-026",
+      "tipo": "short_vertical",
+      "video_id": "7Aj57u7QMYg",
+      "url": "https://youtube.com/shorts/7Aj57u7QMYg",
+      "titulo": "Mais Idosos que CrianÃ§as: As Cidades Mais Velhas do Brasil #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-26T14:56:32-0300"
+    },
+    {
+      "id": "SHORT-027",
+      "tipo": "short_vertical",
+      "video_id": "7UdyixiRWJk",
+      "url": "https://youtube.com/shorts/7UdyixiRWJk",
+      "titulo": "Por Que o Brasil Depende Tanto de CaminhÃµes? O GrÃ¡fico da Carga #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-26T15:08:31-0300"
+    },
+    {
+      "id": "SHORT-028",
+      "tipo": "short_vertical",
+      "video_id": "hnUHTbGMyGY",
+      "url": "https://youtube.com/shorts/hnUHTbGMyGY",
+      "titulo": "A Virada Religiosa no Brasil: De 90% CatÃ³lico a 30% EvangÃ©lico #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-26T15:19:00-0300"
+    },
+    {
+      "id": "SHORT-029",
+      "tipo": "short_vertical",
+      "video_id": "oNX2ze9sGaU",
+      "url": "https://youtube.com/shorts/oNX2ze9sGaU",
+      "titulo": "De Onde Realmente VÃªm as EmissÃµes de CO2 do Brasil? #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-26T15:29:14-0300"
+    },
+    {
+      "id": "SHORT-030",
+      "tipo": "short_vertical",
+      "video_id": "hz2Czgt4ZNw",
+      "url": "https://youtube.com/shorts/hz2Czgt4ZNw",
+      "titulo": "Brasil vs Mundo: Quanto Custa a EducaÃ§Ã£o de um Aluno? #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-26T15:48:04-0300"
+    },
+    {
+      "id": "SHORT-031",
+      "tipo": "short_vertical",
+      "video_id": "_jGzaw4RE6Q",
+      "url": "https://youtube.com/shorts/_jGzaw4RE6Q",
+      "titulo": "O FenÃ´meno do Pix: Como Ele Engoliu os Outros Pagamentos #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-26T16:05:41-0300"
+    },
+    {
+      "id": "SHORT-032",
+      "tipo": "short_vertical",
+      "video_id": "iTYWBDiZwKc",
+      "url": "https://youtube.com/shorts/iTYWBDiZwKc",
+      "titulo": "Onde EstÃ£o os MÃ©dicos no Brasil? O Abismo das Capitais #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-26T16:40:15-0300"
+    },
+    {
+      "id": "SHORT-033",
+      "tipo": "short_vertical",
+      "video_id": "M0Z4QRfWCaA",
+      "url": "https://youtube.com/shorts/M0Z4QRfWCaA",
+      "titulo": "A InvasÃ£o dos Carros ElÃ©tricos no Brasil: Salto de 700% #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-26T17:14:53-0300"
+    },
+    {
+      "id": "SHORT-034",
+      "tipo": "short_vertical",
+      "video_id": "zWXUt6pACeI",
+      "url": "https://youtube.com/shorts/zWXUt6pACeI",
+      "titulo": "Quanto Custa Comer no Brasil? O Peso da Cesta BÃ¡sica #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-26T17:19:11-0300"
+    },
+    {
+      "id": "SHORT-035",
+      "tipo": "short_vertical",
+      "video_id": "AT7CmLd7rvw",
+      "url": "https://youtube.com/shorts/AT7CmLd7rvw",
+      "titulo": "O Brasil Ficou Menos Violento? A Curva dos HomicÃ­dios #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-26T17:24:21-0300"
+    },
+    {
+      "id": "SHORT-036",
+      "tipo": "short_vertical",
+      "video_id": "oaZXZ1uka6U",
+      "url": "https://youtube.com/shorts/oaZXZ1uka6U",
+      "titulo": "O Foguete da Energia Solar no Brasil: De 1 GW a 45 GW #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-26T17:40:50-0300"
+    },
+    {
+      "id": "SHORT-037",
+      "tipo": "short_vertical",
+      "video_id": "JYhxM6IgvtE",
+      "url": "https://youtube.com/shorts/JYhxM6IgvtE",
+      "titulo": "O Maior Sucesso da SaÃºde no Brasil: Queda de 85% na Mortalidade Infantil #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-26T17:56:21-0300"
+    },
+    {
+      "id": "SHORT-038",
+      "tipo": "short_vertical",
+      "video_id": "6qyatCojbMY",
+      "url": "https://youtube.com/shorts/6qyatCojbMY",
+      "titulo": "O Gigante do E-commerce no Brasil: Salto para R$ 200 BilhÃµes #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-26T18:00:27-0300"
+    },
+    {
+      "id": "SHORT-039",
+      "tipo": "short_vertical",
+      "video_id": "cOvrNlCYqmo",
+      "url": "https://youtube.com/shorts/cOvrNlCYqmo",
+      "titulo": "Quanto Tempo da Vida o Brasileiro Perde no TrÃ¢nsito? #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-26T18:05:05-0300"
+    },
+    {
+      "id": "SHORT-040",
+      "tipo": "short_vertical",
+      "video_id": "aN7dYFUi9tM",
+      "url": "https://youtube.com/shorts/aN7dYFUi9tM",
+      "titulo": "O Brasil Virou um Gigante do PetrÃ³leo: 3,5 MilhÃµes de Barris/Dia #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-26T18:09:25-0300"
+    },
+    {
+      "id": "SHORT-041",
+      "tipo": "short_vertical",
+      "video_id": "_ikiJNoEqSA",
+      "url": "https://youtube.com/shorts/_ikiJNoEqSA",
+      "titulo": "Mais de 30 MilhÃµes Sem Ãgua Encanada! O Mapa do IBGE #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-26T18:15:05-0300"
+    },
+    {
+      "id": "SHORT-042",
+      "tipo": "short_vertical",
+      "video_id": "m4ZgryiRScU",
+      "url": "https://youtube.com/shorts/m4ZgryiRScU",
+      "titulo": "Por Que a Comida Sobe Mais que a InflaÃ§Ã£o? O GrÃ¡fico do IPCA #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-26T18:21:42-0300"
+    },
+    {
+      "id": "SHORT-043",
+      "tipo": "short_vertical",
+      "video_id": "1gTHaycyU28",
+      "url": "https://youtube.com/shorts/1gTHaycyU28",
+      "titulo": "O Salto da Aviação no Brasil: De 30 Mi para 110 Mi de Passageiros #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T15:45:33-0300"
+    },
+    {
+      "id": "SHORT-044",
+      "tipo": "short_vertical",
+      "video_id": "vM_zshkrGEA",
+      "url": "https://youtube.com/shorts/vM_zshkrGEA",
+      "titulo": "De 56% de Analfabetos para 93% que Sabem Ler: O Gráfico do IBGE #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T15:46:41-0300"
+    },
+    {
+      "id": "SHORT-045",
+      "tipo": "short_vertical",
+      "video_id": "nrJazsFgF9k",
+      "url": "https://youtube.com/shorts/nrJazsFgF9k",
+      "titulo": "Para Onde Vai o Orçamento do Brasil? O Gráfico dos 2 Trilhões #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-29T15:47:56-0300"
+    },
+    {
+      "id": "SHORT-046",
+      "tipo": "short_vertical",
+      "video_id": "3897pzq_EzQ",
+      "url": "https://youtube.com/shorts/3897pzq_EzQ",
+      "titulo": "Quem Fica com a Renda no Brasil? O Gráfico da Desigualdade #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T15:49:17-0300"
+    },
+    {
+      "id": "SHORT-047",
+      "tipo": "short_vertical",
+      "video_id": "ZLrpIomq9Rg",
+      "url": "https://youtube.com/shorts/ZLrpIomq9Rg",
+      "titulo": "O Gigante da Celulose: Por Que o Brasil Domina o Mundo? #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T15:50:28-0300"
+    },
+    {
+      "id": "SHORT-048",
+      "tipo": "short_vertical",
+      "video_id": "Cv0vTGHZlbY",
+      "url": "https://youtube.com/shorts/Cv0vTGHZlbY",
+      "titulo": "O Boom das Cidades Médias: Por Que o Interior Cresce o Dobro? #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T15:51:43-0300"
+    },
+    {
+      "id": "SHORT-049",
+      "tipo": "short_vertical",
+      "video_id": "sef7tjSbXtE",
+      "url": "https://youtube.com/shorts/sef7tjSbXtE",
+      "titulo": "Brasil vs Mundo: Quanto Pagamos de Impostos? O Gráfico da Carga #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-29T15:53:01-0300"
+    },
+    {
+      "id": "SHORT-050",
+      "tipo": "short_vertical",
+      "video_id": "wqozywN_RNU",
+      "url": "https://youtube.com/shorts/wqozywN_RNU",
+      "titulo": "Mais Motos que Carros? A Explosão das Duas Rodas no Brasil #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T15:54:11-0300"
+    },
+    {
+      "id": "SHORT-051",
+      "tipo": "short_vertical",
+      "video_id": "JZmEKuOpTAA",
+      "url": "https://youtube.com/shorts/JZmEKuOpTAA",
+      "titulo": "O Mar de Pás no Nordeste: O Foguete da Energia Eólica no Brasil #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T15:55:29-0300"
+    },
+    {
+      "id": "SHORT-052",
+      "tipo": "short_vertical",
+      "video_id": "WvRC50C4EB0",
+      "url": "https://youtube.com/shorts/WvRC50C4EB0",
+      "titulo": "O Salto dos Doutores no Brasil: De 3 Mil para 24 Mil por Ano #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T15:56:46-0300"
+    },
+    {
+      "id": "SHORT-053",
+      "tipo": "short_vertical",
+      "video_id": "113odzmWLBY",
+      "url": "https://youtube.com/shorts/113odzmWLBY",
+      "titulo": "O Rastreio dos Royalties: Quem Fica com a Fatura dos Bilhões? #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-29T15:58:00-0300"
+    },
+    {
+      "id": "SHORT-054",
+      "tipo": "short_vertical",
+      "video_id": "bXbQmtfv6YE",
+      "url": "https://youtube.com/shorts/bXbQmtfv6YE",
+      "titulo": "O Ranking dos Portos do Brasil: Por Onde Passa a Nossa Riqueza? #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T15:59:11-0300"
+    },
+    {
+      "id": "SHORT-055",
+      "tipo": "short_vertical",
+      "video_id": "2vz-ZAcjqq4",
+      "url": "https://youtube.com/shorts/2vz-ZAcjqq4",
+      "titulo": "Quantos Brasileiros Moram de Aluguel? O Censo dos Imóveis #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T16:01:41-0300"
+    },
+    {
+      "id": "SHORT-056",
+      "tipo": "short_vertical",
+      "video_id": "M3O1lm91-jU",
+      "url": "https://youtube.com/shorts/M3O1lm91-jU",
+      "titulo": "A Moeda que Mais Mudou de Nome: Os 18 Zeros do Brasil #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-29T16:03:06-0300"
+    },
+    {
+      "id": "SHORT-057",
+      "tipo": "short_vertical",
+      "video_id": "CyliDQ7vMlA",
+      "url": "https://youtube.com/shorts/CyliDQ7vMlA",
+      "titulo": "O Abismo dos Juros no Brasil: Rotativo vs Outros Créditos #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-29T16:04:20-0300"
+    },
+    {
+      "id": "SHORT-058",
+      "tipo": "short_vertical",
+      "video_id": "WIQmUia0VzM",
+      "url": "https://youtube.com/shorts/WIQmUia0VzM",
+      "titulo": "A População Quilombola no Brasil: O Primeiro Censo da História #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T16:05:40-0300"
+    },
+    {
+      "id": "SHORT-059",
+      "tipo": "short_vertical",
+      "video_id": "Ewk6KZR5eLU",
+      "url": "https://youtube.com/shorts/Ewk6KZR5eLU",
+      "titulo": "O Gigante do Minério de Ferro: O Pilar das Exportações do Brasil #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T16:06:58-0300"
+    },
+    {
+      "id": "SHORT-060",
+      "tipo": "short_vertical",
+      "video_id": "s5rKR4IYEuE",
+      "url": "https://youtube.com/shorts/s5rKR4IYEuE",
+      "titulo": "Quem Tem Plano de Saúde no Brasil? Os 51 Milhões de Beneficiários #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T16:08:20-0300"
+    },
+    {
+      "id": "SHORT-061",
+      "tipo": "short_vertical",
+      "video_id": "5I7S83H7xYM",
+      "url": "https://youtube.com/shorts/5I7S83H7xYM",
+      "titulo": "O Fim da Conta Padrão: A Explosão do Mercado Livre de Energia #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T16:09:56-0300"
+    },
+    {
+      "id": "SHORT-062",
+      "tipo": "short_vertical",
+      "video_id": "OgbFGRTuB9M",
+      "url": "https://youtube.com/shorts/OgbFGRTuB9M",
+      "titulo": "Mães Mais Velhas: O Adiamento da Maternidade no Brasil #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T16:11:14-0300"
+    },
+    {
+      "id": "SHORT-063",
+      "tipo": "short_vertical",
+      "video_id": "90-DpCitl8M",
+      "url": "https://youtube.com/shorts/90-DpCitl8M",
+      "titulo": "Para Onde Vão os R$ 500 Bilhões em Isenções do Brasil? #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-29T16:12:32-0300"
+    },
+    {
+      "id": "SHORT-064",
+      "tipo": "short_vertical",
+      "video_id": "pIUPKLu8OZA",
+      "url": "https://youtube.com/shorts/pIUPKLu8OZA",
+      "titulo": "O Ônibus Está Morrendo? O Gráfico do Transporte no Brasil #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T16:13:50-0300"
+    },
+    {
+      "id": "SHORT-065",
+      "tipo": "short_vertical",
+      "video_id": "dZBB__gvSTc",
+      "url": "https://youtube.com/shorts/dZBB__gvSTc",
+      "titulo": "Onde Moram os Indígenas no Brasil? O Revelador Censo 2022 #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T16:15:55-0300"
+    },
+    {
+      "id": "SHORT-066",
+      "tipo": "short_vertical",
+      "video_id": "oK0sIAEUWXI",
+      "url": "https://youtube.com/shorts/oK0sIAEUWXI",
+      "titulo": "O Salto do Agro: De 47 Mi para 300 Milhões de Toneladas #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T16:17:25-0300"
+    },
+    {
+      "id": "SHORT-067",
+      "tipo": "short_vertical",
+      "video_id": "Ces18NSrps0",
+      "url": "https://youtube.com/shorts/Ces18NSrps0",
+      "titulo": "De 5 Mega para 150 Mega: O Salto da Internet no Brasil #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T16:19:03-0300"
+    },
+    {
+      "id": "SHORT-068",
+      "tipo": "short_vertical",
+      "video_id": "DfZlm767Z1U",
+      "url": "https://youtube.com/shorts/DfZlm767Z1U",
+      "titulo": "O Raio-X do Trânsito no Brasil: 33 Mil Mortes ao Ano #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T16:20:47-0300"
+    },
+    {
+      "id": "SHORT-069",
+      "tipo": "short_vertical",
+      "video_id": "xW_k7Fs2ylo",
+      "url": "https://youtube.com/shorts/xW_k7Fs2ylo",
+      "titulo": "25 Anos de Genéricos: A Revolução dos Remédios no Brasil #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-29T16:22:06-0300"
+    },
+    {
+      "id": "SHORT-070",
+      "tipo": "short_vertical",
+      "video_id": "3Q80bJ7OliA",
+      "url": "https://youtube.com/shorts/3Q80bJ7OliA",
+      "titulo": "Onde Estão os 4,5 Milhões de Brasileiros no Exterior? #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T16:23:28-0300"
+    },
+    {
+      "id": "SHORT-071",
+      "tipo": "short_vertical",
+      "video_id": "ql4s8lpyJh4",
+      "url": "https://youtube.com/shorts/ql4s8lpyJh4",
+      "titulo": "O Fim do Cheque e do DOC: A Morte do Dinheiro Antigo #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-29T16:24:53-0300"
+    },
+    {
+      "id": "SHORT-072",
+      "tipo": "short_vertical",
+      "video_id": "J_D17FTo5d8",
+      "url": "https://youtube.com/shorts/J_D17FTo5d8",
+      "titulo": "Quem São os 10 Milhões de Surdos no Brasil? Os Dados do IBGE #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T16:26:20-0300"
+    },
+    {
+      "id": "SHORT-073",
+      "tipo": "short_vertical",
+      "video_id": "vXPnHe4zviE",
+      "url": "https://youtube.com/shorts/vXPnHe4zviE",
+      "titulo": "O Gigante da Carne: Por Que o Brasil Domina o Mundo? #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T16:27:39-0300"
+    },
+    {
+      "id": "SHORT-074",
+      "tipo": "short_vertical",
+      "video_id": "yWuJzY8LWPA",
+      "url": "https://youtube.com/shorts/yWuJzY8LWPA",
+      "titulo": "O Brasil Tem a Maior Frota de Carros Blindados do Mundo! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T16:28:57-0300"
+    },
+    {
+      "id": "SHORT-075",
+      "tipo": "short_vertical",
+      "video_id": "uVGGccBqbhY",
+      "url": "https://youtube.com/shorts/uVGGccBqbhY",
+      "titulo": "A Realidade dos Jovens Nem-Nem no Brasil: O Gráfico do IBGE #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T16:30:18-0300"
+    },
+    {
+      "id": "SHORT-076",
+      "tipo": "short_vertical",
+      "video_id": "pn9a1LurqaI",
+      "url": "https://youtube.com/shorts/pn9a1LurqaI",
+      "titulo": "O Que Aconteceu com a Indústria de Carros no Brasil? #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T16:33:47-0300"
+    },
+    {
+      "id": "SHORT-077",
+      "tipo": "short_vertical",
+      "video_id": "kvFKNekOIhg",
+      "url": "https://youtube.com/shorts/kvFKNekOIhg",
+      "titulo": "Quanto Café o Brasileiro Realmente Bebe? O Gráfico da ABIC #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T16:35:12-0300"
+    },
+    {
+      "id": "SHORT-078",
+      "tipo": "short_vertical",
+      "video_id": "vqzyPTBugNo",
+      "url": "https://youtube.com/shorts/vqzyPTBugNo",
+      "titulo": "O EAD Engoliu a Faculdade Presencial? O Gráfico do MEC #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T18:39:32-0300"
+    },
+    {
+      "id": "SHORT-079",
+      "tipo": "short_vertical",
+      "video_id": "zNraBUcwp5g",
+      "url": "https://youtube.com/shorts/zNraBUcwp5g",
+      "titulo": "O Segredo das Criptomoedas no Brasil: Não É o Bitcoin! #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-29T18:40:59-0300"
+    },
+    {
+      "id": "SHORT-080",
+      "tipo": "short_vertical",
+      "video_id": "eqXlhetQmrA",
+      "url": "https://youtube.com/shorts/eqXlhetQmrA",
+      "titulo": "O Salto da População de Rua no Brasil: O Raio-X do IPEA #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T18:42:19-0300"
+    },
+    {
+      "id": "SHORT-081",
+      "tipo": "short_vertical",
+      "video_id": "U8OMiqVgGaI",
+      "url": "https://youtube.com/shorts/U8OMiqVgGaI",
+      "titulo": "Quem Manda no Dinheiro do Brasil? Os 5 Gigantes Bancários #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-29T18:43:46-0300"
+    },
+    {
+      "id": "SHORT-082",
+      "tipo": "short_vertical",
+      "video_id": "8nhxZI2U1_Y",
+      "url": "https://youtube.com/shorts/8nhxZI2U1_Y",
+      "titulo": "O Casamento na Igreja Está Morrendo? O Gráfico do IBGE #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-29T18:56:20-0300"
+    },
+    {
+      "id": "SHORT-083",
+      "tipo": "short_vertical",
+      "video_id": "qK9iWlDJuHQ",
+      "url": "https://youtube.com/shorts/qK9iWlDJuHQ",
+      "titulo": "O Agro Salva o Brasil? O Gráfico dos US$ 150 Bilhões #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-29T19:07:18-0300"
+    },
+    {
+      "id": "SHORT-084",
+      "tipo": "short_vertical",
+      "video_id": "-xQdjvaWrsw",
+      "url": "https://youtube.com/shorts/-xQdjvaWrsw",
+      "titulo": "Para Onde Vai o Preço da Gasolina no Brasil? #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-29T19:16:56-0300"
+    },
+    {
+      "id": "SHORT-085",
+      "tipo": "short_vertical",
+      "video_id": "A7b8C82cYdk",
+      "url": "https://youtube.com/shorts/A7b8C82cYdk",
+      "titulo": "O Salto dos 80 Anos: O Grupo que Mais Cresce no Brasil #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-30T15:55:18-0300"
+    },
+    {
+      "id": "SHORT-086",
+      "tipo": "short_vertical",
+      "video_id": "XRUAHHSdsIw",
+      "url": "https://youtube.com/shorts/XRUAHHSdsIw",
+      "titulo": "O Aço Chinês Invadiu o Brasil? A Guerra das Tarifas #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-30T16:06:42-0300"
+    },
+    {
+      "id": "SHORT-087",
+      "tipo": "short_vertical",
+      "video_id": "yeS2aTgUsFg",
+      "url": "https://youtube.com/shorts/yeS2aTgUsFg",
+      "titulo": "40% da Água Tratada Vaza Pelo Caminho no Brasil! #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-30T16:15:38-0300"
+    },
+    {
+      "id": "SHORT-088",
+      "tipo": "short_vertical",
+      "video_id": "wjz9ucfjasM",
+      "url": "https://youtube.com/shorts/wjz9ucfjasM",
+      "titulo": "Onde Estão os Servidores Públicos no Brasil? O Raio-X do Ipea #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-30T16:29:40-0300"
+    },
+    {
+      "id": "SHORT-089",
+      "tipo": "short_vertical",
+      "video_id": "zt_P524txSM",
+      "url": "https://youtube.com/shorts/zt_P524txSM",
+      "titulo": "O Avanço das Cooperativas de Crédito no Brasil! #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-30T16:41:39-0300"
+    },
+    {
+      "id": "SHORT-090",
+      "tipo": "short_vertical",
+      "video_id": "QTTRUWr267I",
+      "url": "https://youtube.com/shorts/QTTRUWr267I",
+      "titulo": "O Paradoxo dos 11 Milhões de Imóveis Vagos no Brasil #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-30T16:53:43-0300"
+    },
+    {
+      "id": "SHORT-091",
+      "tipo": "short_vertical",
+      "video_id": "J1Cm9VORusw",
+      "url": "https://youtube.com/shorts/J1Cm9VORusw",
+      "titulo": "Quando os Evangélicos Vão Superar os Católicos no Brasil? #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-30T17:07:13-0300"
+    },
+    {
+      "id": "SHORT-092",
+      "tipo": "short_vertical",
+      "video_id": "fels5EAD15Y",
+      "url": "https://youtube.com/shorts/fels5EAD15Y",
+      "titulo": "78% das Famílias Endividadas no Brasil! O Raio-X do BC #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-30T17:17:28-0300"
+    },
+    {
+      "id": "SHORT-093",
+      "tipo": "short_vertical",
+      "video_id": "U1QUZSshnA4",
+      "url": "https://youtube.com/shorts/U1QUZSshnA4",
+      "titulo": "O Brasil Tem a 2ª Maior Frota de Aviões Agrícolas do Mundo! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-30T17:31:21-0300"
+    },
+    {
+      "id": "SHORT-094",
+      "tipo": "short_vertical",
+      "video_id": "6F-hBgaf-38",
+      "url": "https://youtube.com/shorts/6F-hBgaf-38",
+      "titulo": "O Maior Imposto do Brasil: A Fatura de R$ 750 Bi do ICMS #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-30T17:42:19-0300"
+    },
+    {
+      "id": "SHORT-095",
+      "tipo": "short_vertical",
+      "video_id": "0gFgrKiL7YA",
+      "url": "https://youtube.com/shorts/0gFgrKiL7YA",
+      "titulo": "O Brasil Tem 5 Milhões a Menos de Crianças! O Gráfico do Censo #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-30T18:05:43-0300"
+    },
+    {
+      "id": "SHORT-096",
+      "tipo": "short_vertical",
+      "video_id": "5RNkvfcloKY",
+      "url": "https://youtube.com/shorts/5RNkvfcloKY",
+      "titulo": "Por Que os Shoppings Fizeram Tanto Sucesso no Brasil? #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-30T18:20:28-0300"
+    },
+    {
+      "id": "SHORT-097",
+      "tipo": "short_vertical",
+      "video_id": "jdeCj3231Jc",
+      "url": "https://youtube.com/shorts/jdeCj3231Jc",
+      "titulo": "O Brasil É Campeão Mundial de Reciclagem de Latinhas! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-30T18:31:45-0300"
+    },
+    {
+      "id": "SHORT-098",
+      "tipo": "short_vertical",
+      "video_id": "nF1vDurJNbM",
+      "url": "https://youtube.com/shorts/nF1vDurJNbM",
+      "titulo": "As Cidades com Mais Mulheres que Homens no Brasil! #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-30T18:38:57-0300"
+    },
+    {
+      "id": "SHORT-099",
+      "tipo": "short_vertical",
+      "video_id": "I5AYinvmAIs",
+      "url": "https://youtube.com/shorts/I5AYinvmAIs",
+      "titulo": "O Gigante do FGTS: Para Onde Vai o Fundo de R$ 650 Bilhões? #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-30T18:49:41-0300"
+    },
+    {
+      "id": "SHORT-100",
+      "tipo": "short_vertical",
+      "video_id": "iJP7wzeWsyE",
+      "url": "https://youtube.com/shorts/iJP7wzeWsyE",
+      "titulo": "O Brasil Tem Mais Celulares do que Habitantes! O Gráfico da FGV #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-30T18:57:03-0300"
+    },
+    {
+      "id": "SHORT-101",
+      "tipo": "short_vertical",
+      "video_id": "2p9su-gGiU4",
+      "url": "https://youtube.com/shorts/2p9su-gGiU4",
+      "titulo": "Onde os Idosos Sustentam as Casas no Brasil? O Gráfico do INSS #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-30T19:04:32-0300"
+    },
+    {
+      "id": "SHORT-102",
+      "tipo": "short_vertical",
+      "video_id": "oFMR701fzNU",
+      "url": "https://youtube.com/shorts/oFMR701fzNU",
+      "titulo": "O Rombo das Bets no Brasil: R$ 20 Bilhões por Mês! #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-30T19:11:30-0300"
+    },
+    {
+      "id": "SHORT-103",
+      "tipo": "short_vertical",
+      "video_id": "TjMjE9Aq7zM",
+      "url": "https://youtube.com/shorts/TjMjE9Aq7zM",
+      "titulo": "O Salto do Pré-Sal: De Quase Zero a 80% do Petróleo do Brasil! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-30T19:18:18-0300"
+    },
+    {
+      "id": "SHORT-104",
+      "tipo": "short_vertical",
+      "video_id": "U8ob_gCyO_o",
+      "url": "https://youtube.com/shorts/U8ob_gCyO_o",
+      "titulo": "O Peso dos Juros da Dívida: Quase R$ 800 Bilhões ao Ano! #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-30T19:22:18-0300"
+    },
+    {
+      "id": "SHORT-105",
+      "tipo": "short_vertical",
+      "video_id": "JHpm1sAVKGM",
+      "url": "https://youtube.com/shorts/JHpm1sAVKGM",
+      "titulo": "O Que Aconteceu Onde a Polícia Usou Câmeras Corporais? #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-30T19:26:41-0300"
+    },
+    {
+      "id": "SHORT-106",
+      "tipo": "short_vertical",
+      "video_id": "anZjsFD-04M",
+      "url": "https://youtube.com/shorts/anZjsFD-04M",
+      "titulo": "O Brasil Domina 75% do Suco de Laranja do Mundo! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-30T19:32:43-0300"
+    },
+    {
+      "id": "SHORT-107",
+      "tipo": "short_vertical",
+      "video_id": "Pz71q3lp2_c",
+      "url": "https://youtube.com/shorts/Pz71q3lp2_c",
+      "titulo": "A Revolução das Bikes e Patinetes nas Capitais do Brasil! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-30T19:39:30-0300"
+    },
+    {
+      "id": "SHORT-108",
+      "tipo": "short_vertical",
+      "video_id": "0oQR6VdGXEc",
+      "url": "https://youtube.com/shorts/0oQR6VdGXEc",
+      "titulo": "O Brasil Tem Mais que o Dobro de Pets do que Crianças! #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-30T19:45:22-0300"
+    },
+    {
+      "id": "SHORT-109",
+      "tipo": "short_vertical",
+      "video_id": "8IKQ8f6pvq4",
+      "url": "https://youtube.com/shorts/8IKQ8f6pvq4",
+      "titulo": "Por Que a Conta de Luz Sobe com as Bandeiras? #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-30T19:50:51-0300"
+    },
+    {
+      "id": "SHORT-110",
+      "tipo": "short_vertical",
+      "video_id": "eOv2hnxKkLQ",
+      "url": "https://youtube.com/shorts/eOv2hnxKkLQ",
+      "titulo": "Por Que os Centros Históricos Estão Esvaziando no Brasil? #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-30T19:56:23-0300"
+    },
+    {
+      "id": "SHORT-111",
+      "tipo": "short_vertical",
+      "video_id": "MEWvQ3m-tKA",
+      "url": "https://youtube.com/shorts/MEWvQ3m-tKA",
+      "titulo": "O Brasil É o Número 1 do Mundo no Pix! #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-30T20:03:53-0300"
+    },
+    {
+      "id": "SHORT-112",
+      "tipo": "short_vertical",
+      "video_id": "pYVN7b609uo",
+      "url": "https://youtube.com/shorts/pYVN7b609uo",
+      "titulo": "93% Sabem Ler, Mas Quase 30% Não Entendem o Texto! #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-30T20:13:51-0300"
+    },
+    {
+      "id": "SHORT-113",
+      "tipo": "short_vertical",
+      "video_id": "YhLNnuCX0VI",
+      "url": "https://youtube.com/shorts/YhLNnuCX0VI",
+      "titulo": "O Brasil Importa ou Exporta Mais Carros? #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-30T20:20:39-0300"
+    },
+    {
+      "id": "SHORT-114",
+      "tipo": "short_vertical",
+      "video_id": "LDeaXT7Vblg",
+      "url": "https://youtube.com/shorts/LDeaXT7Vblg",
+      "titulo": "A Virada da Vacinação no Brasil: O Fim do Risco da Pólio! #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-30T20:31:36-0300"
+    },
+    {
+      "id": "SHORT-115",
+      "tipo": "short_vertical",
+      "video_id": "wNamYesOYNk",
+      "url": "https://youtube.com/shorts/wNamYesOYNk",
+      "titulo": "Onde Estão as Faculdades Federais no Brasil? #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-30T20:50:23-0300"
+    },
+    {
+      "id": "SHORT-116",
+      "tipo": "short_vertical",
+      "video_id": "rTp2b4H1IlQ",
+      "url": "https://youtube.com/shorts/rTp2b4H1IlQ",
+      "titulo": "O Impacto dos Genéricos: R$ 300 Bilhões de Economia! #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-09-30T20:54:53-0300"
+    },
+    {
+      "id": "SHORT-117",
+      "tipo": "short_vertical",
+      "video_id": "DcB5kE6X6rQ",
+      "url": "https://youtube.com/shorts/DcB5kE6X6rQ",
+      "titulo": "Os Aeroportos Mais Movimentados do Brasil! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-30T21:01:07-0300"
+    },
+    {
+      "id": "SHORT-118",
+      "tipo": "short_vertical",
+      "video_id": "OBuCeYnJoL8",
+      "url": "https://youtube.com/shorts/OBuCeYnJoL8",
+      "titulo": "Por Que os Jovens Demoram Mais para Trabalhar? #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-09-30T21:14:07-0300"
+    },
+    {
+      "id": "SHORT-119",
+      "tipo": "short_vertical",
+      "video_id": "Ng2SvJp1d4g",
+      "url": "https://youtube.com/shorts/Ng2SvJp1d4g",
+      "titulo": "Como o Brasil Virou o Maior Produtor de Soja do Mundo! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-30T21:28:45-0300"
+    },
+    {
+      "id": "SHORT-120",
+      "tipo": "short_vertical",
+      "video_id": "QQ_1UGWEO4A",
+      "url": "https://youtube.com/shorts/QQ_1UGWEO4A",
+      "titulo": "O Ralo do Saneamento: R$ 16 Bilhões Perdidos por Ano! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-09-30T21:40:24-0300"
+    },
+    {
+      "id": "SHORT-121",
+      "tipo": "short_vertical",
+      "video_id": "Rm7jsg1yqj4",
+      "url": "https://youtube.com/shorts/Rm7jsg1yqj4",
+      "titulo": "Por Que Milhões de Brasileiros Abriram Conta em Dólar? #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-10-01T00:48:43-0300"
+    },
+    {
+      "id": "SHORT-122",
+      "tipo": "short_vertical",
+      "video_id": "mwGD8evbs64",
+      "url": "https://youtube.com/shorts/mwGD8evbs64",
+      "titulo": "Por Que 30% dos Jovens das Capitais Não Têm Religião? #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T04:02:49-0300"
+    },
+    {
+      "id": "SHORT-123",
+      "tipo": "short_vertical",
+      "video_id": "x4ARkNpIQeg",
+      "url": "https://youtube.com/shorts/x4ARkNpIQeg",
+      "titulo": "Por Que as Motos Elétricas Invadiram as Ruas? #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:06:21-0300"
+    },
+    {
+      "id": "SHORT-124",
+      "tipo": "short_vertical",
+      "video_id": "piPLqiiJ2BE",
+      "url": "https://youtube.com/shorts/piPLqiiJ2BE",
+      "titulo": "O Fim do Ônibus a Diesel? A Frota Elétrica no Brasil! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:07:17-0300"
+    },
+    {
+      "id": "SHORT-125",
+      "tipo": "short_vertical",
+      "video_id": "9j2R9yhJWBU",
+      "url": "https://youtube.com/shorts/9j2R9yhJWBU",
+      "titulo": "O Abismo da Longevidade: Onde os Brasileiros Vivem Mais? #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T04:08:18-0300"
+    },
+    {
+      "id": "SHORT-126",
+      "tipo": "short_vertical",
+      "video_id": "FAfl1YRGXrQ",
+      "url": "https://youtube.com/shorts/FAfl1YRGXrQ",
+      "titulo": "70% dos Carros Não Têm Seguro no Brasil! #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-10-01T04:09:16-0300"
+    },
+    {
+      "id": "SHORT-127",
+      "tipo": "short_vertical",
+      "video_id": "fPd9wPf8W0g",
+      "url": "https://youtube.com/shorts/fPd9wPf8W0g",
+      "titulo": "O Brasileiro Come Menos Carne de Boi? O Gráfico da Proteína! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:12:28-0300"
+    },
+    {
+      "id": "SHORT-128",
+      "tipo": "short_vertical",
+      "video_id": "5js5aJIY6bQ",
+      "url": "https://youtube.com/shorts/5js5aJIY6bQ",
+      "titulo": "Casais Sem Filhos Dispararam no Brasil! #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T04:13:36-0300"
+    },
+    {
+      "id": "SHORT-129",
+      "tipo": "short_vertical",
+      "video_id": "MH1guouUU2g",
+      "url": "https://youtube.com/shorts/MH1guouUU2g",
+      "titulo": "Para Onde Vão os Bilhões do Pré-Sal? O Fundo Social! #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-10-01T04:14:35-0300"
+    },
+    {
+      "id": "SHORT-130",
+      "tipo": "short_vertical",
+      "video_id": "X1ag_8B2iac",
+      "url": "https://youtube.com/shorts/X1ag_8B2iac",
+      "titulo": "2 Milhões de Toneladas de E-Lixo! O Gráfico dos Eletrônicos #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:15:37-0300"
+    },
+    {
+      "id": "SHORT-131",
+      "tipo": "short_vertical",
+      "video_id": "5Azz0Kd_5HY",
+      "url": "https://youtube.com/shorts/5Azz0Kd_5HY",
+      "titulo": "80% dos Clubes Patrocinados por Bets! O Gráfico do Futebol #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-10-01T04:16:28-0300"
+    },
+    {
+      "id": "SHORT-132",
+      "tipo": "short_vertical",
+      "video_id": "wuDZ9g7bmQM",
+      "url": "https://youtube.com/shorts/wuDZ9g7bmQM",
+      "titulo": "Por Que os Jovens Não Querem Mais Dirigir? O Gráfico da CNH! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:17:27-0300"
+    },
+    {
+      "id": "SHORT-133",
+      "tipo": "short_vertical",
+      "video_id": "V2vkKgkgcwU",
+      "url": "https://youtube.com/shorts/V2vkKgkgcwU",
+      "titulo": "A Revolução Solar nos Telhados: 30 Gigawatts no Brasil! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:18:22-0300"
+    },
+    {
+      "id": "SHORT-134",
+      "tipo": "short_vertical",
+      "video_id": "QOr6R8HTgtE",
+      "url": "https://youtube.com/shorts/QOr6R8HTgtE",
+      "titulo": "As Capitais com Mais Carros por Habitante! O Gráfico da Frota #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:19:14-0300"
+    },
+    {
+      "id": "SHORT-135",
+      "tipo": "short_vertical",
+      "video_id": "73gqHvl2QQI",
+      "url": "https://youtube.com/shorts/73gqHvl2QQI",
+      "titulo": "11 Milhões Moram Sozinhos no Brasil! O Gráfico da Solidão #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T04:20:29-0300"
+    },
+    {
+      "id": "SHORT-136",
+      "tipo": "short_vertical",
+      "video_id": "4usXsnj8uKw",
+      "url": "https://youtube.com/shorts/4usXsnj8uKw",
+      "titulo": "O Café Brasileiro Não É Mais Commodity! O Gráfico dos Especiais #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:21:38-0300"
+    },
+    {
+      "id": "SHORT-137",
+      "tipo": "short_vertical",
+      "video_id": "1XWFEq2o_YM",
+      "url": "https://youtube.com/shorts/1XWFEq2o_YM",
+      "titulo": "O 5G Brasileiro É Mais Rápido que o dos EUA? O Gráfico da Velocidade! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:24:52-0300"
+    },
+    {
+      "id": "SHORT-138",
+      "tipo": "short_vertical",
+      "video_id": "ybqIiPKRqiI",
+      "url": "https://youtube.com/shorts/ybqIiPKRqiI",
+      "titulo": "Quem Vai Dar Aula no Futuro? O Apagão dos Professores no Brasil! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:25:58-0300"
+    },
+    {
+      "id": "SHORT-139",
+      "tipo": "short_vertical",
+      "video_id": "_g5hDc82un0",
+      "url": "https://youtube.com/shorts/_g5hDc82un0",
+      "titulo": "O Gigante Têxtil Brasileiro: O 5º Maior Produtor do Mundo! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:27:04-0300"
+    },
+    {
+      "id": "SHORT-140",
+      "tipo": "short_vertical",
+      "video_id": "VofcNiyFC4k",
+      "url": "https://youtube.com/shorts/VofcNiyFC4k",
+      "titulo": "As Cidades do Interior Mais Populosas que Capitais! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:30:30-0300"
+    },
+    {
+      "id": "SHORT-141",
+      "tipo": "short_vertical",
+      "video_id": "L7BgBXpVaIo",
+      "url": "https://youtube.com/shorts/L7BgBXpVaIo",
+      "titulo": "O Fim do Boleto? A Chegada do Pix Automático! #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-10-01T04:31:26-0300"
+    },
+    {
+      "id": "SHORT-142",
+      "tipo": "short_vertical",
+      "video_id": "biQnLx865oU",
+      "url": "https://youtube.com/shorts/biQnLx865oU",
+      "titulo": "Meio Milhão de Jovens Fora da Escola! O Gráfico da Evasão #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T04:32:23-0300"
+    },
+    {
+      "id": "SHORT-143",
+      "tipo": "short_vertical",
+      "video_id": "1EjTaevatoQ",
+      "url": "https://youtube.com/shorts/1EjTaevatoQ",
+      "titulo": "A Maior Frota de Carros Blindados do Mundo! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:33:19-0300"
+    },
+    {
+      "id": "SHORT-144",
+      "tipo": "short_vertical",
+      "video_id": "ZAdytnBlFZE",
+      "url": "https://youtube.com/shorts/ZAdytnBlFZE",
+      "titulo": "O Império da Cana-de-Açúcar: 650 Milhões de Toneladas no Brasil! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:34:15-0300"
+    },
+    {
+      "id": "SHORT-145",
+      "tipo": "short_vertical",
+      "video_id": "lmjFjESydrE",
+      "url": "https://youtube.com/shorts/lmjFjESydrE",
+      "titulo": "Mais de 280 Mil Pessoas em Situação de Rua no Brasil! #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T04:36:08-0300"
+    },
+    {
+      "id": "SHORT-146",
+      "tipo": "short_vertical",
+      "video_id": "OrTxLASKuNw",
+      "url": "https://youtube.com/shorts/OrTxLASKuNw",
+      "titulo": "O Mercado de Luxo no Brasil: R$ 25 Bilhões por Ano! #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-10-01T04:37:03-0300"
+    },
+    {
+      "id": "SHORT-147",
+      "tipo": "short_vertical",
+      "video_id": "fxR6ZA6qiFQ",
+      "url": "https://youtube.com/shorts/fxR6ZA6qiFQ",
+      "titulo": "Onde Estão as Melhores Rodovias do Brasil? O Raio-X dos Pedágios #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:46:37-0300"
+    },
+    {
+      "id": "SHORT-148",
+      "tipo": "short_vertical",
+      "video_id": "0snGZJBDc8U",
+      "url": "https://youtube.com/shorts/0snGZJBDc8U",
+      "titulo": "A Invasão do EAD: Mais Alunos a Distância que Presenciais! #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T04:47:41-0300"
+    },
+    {
+      "id": "SHORT-149",
+      "tipo": "short_vertical",
+      "video_id": "klkOWfjC9nY",
+      "url": "https://youtube.com/shorts/klkOWfjC9nY",
+      "titulo": "O Maior Exportador de Frango do Mundo! O Gráfico da Proteína #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:48:31-0300"
+    },
+    {
+      "id": "SHORT-150",
+      "tipo": "short_vertical",
+      "video_id": "d7Ff19q4aeM",
+      "url": "https://youtube.com/shorts/d7Ff19q4aeM",
+      "titulo": "Mais de 55% das Garrafas PET Recicladas no Brasil! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:49:27-0300"
+    },
+    {
+      "id": "SHORT-151",
+      "tipo": "short_vertical",
+      "video_id": "1PqUvlUHLuU",
+      "url": "https://youtube.com/shorts/1PqUvlUHLuU",
+      "titulo": "Painéis Solares na Água? A Revolução Solar nas Represas! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:50:25-0300"
+    },
+    {
+      "id": "SHORT-152",
+      "tipo": "short_vertical",
+      "video_id": "yddPsJ0dd6c",
+      "url": "https://youtube.com/shorts/yddPsJ0dd6c",
+      "titulo": "O Brasileiro Parou de Casar no Papel? O Censo dos Cartórios! #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T04:51:18-0300"
+    },
+    {
+      "id": "SHORT-153",
+      "tipo": "short_vertical",
+      "video_id": "Jts3IBMiuWs",
+      "url": "https://youtube.com/shorts/Jts3IBMiuWs",
+      "titulo": "Quantos Anos Têm os Ônibus do Brasil? O Raio-X do Transporte #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:52:22-0300"
+    },
+    {
+      "id": "SHORT-154",
+      "tipo": "short_vertical",
+      "video_id": "4FtCIGuZs3c",
+      "url": "https://youtube.com/shorts/4FtCIGuZs3c",
+      "titulo": "O Brasil Virou o Maior Exportador de Algodão do Mundo! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:53:14-0300"
+    },
+    {
+      "id": "SHORT-155",
+      "tipo": "short_vertical",
+      "video_id": "NEsID_xzGyA",
+      "url": "https://youtube.com/shorts/NEsID_xzGyA",
+      "titulo": "35% dos Indígenas Moram nas Cidades! O Novo Censo do IBGE #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T04:54:15-0300"
+    },
+    {
+      "id": "SHORT-156",
+      "tipo": "short_vertical",
+      "video_id": "_RLdMH3lAU4",
+      "url": "https://youtube.com/shorts/_RLdMH3lAU4",
+      "titulo": "1,4 Milhão de Pessoas no Teleatendimento: O Gigante dos Call Centers! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T04:55:11-0300"
+    },
+    {
+      "id": "SHORT-157",
+      "tipo": "short_vertical",
+      "video_id": "CVj9lWcLXj0",
+      "url": "https://youtube.com/shorts/CVj9lWcLXj0",
+      "titulo": "57% dos Partos por Cesárea? O Recorde do Brasil! #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T04:56:17-0300"
+    },
+    {
+      "id": "SHORT-158",
+      "tipo": "short_vertical",
+      "video_id": "Q4fPehtjWOw",
+      "url": "https://youtube.com/shorts/Q4fPehtjWOw",
+      "titulo": "10 Milhões de Jovens Nem-Nem no Brasil! O Gráfico do Futuro #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T04:59:29-0300"
+    },
+    {
+      "id": "SHORT-159",
+      "tipo": "short_vertical",
+      "video_id": "W11rtdBKpAM",
+      "url": "https://youtube.com/shorts/W11rtdBKpAM",
+      "titulo": "O Brasil Faz Roupa de Árvore? A Celulose Solúvel! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:00:31-0300"
+    },
+    {
+      "id": "SHORT-160",
+      "tipo": "short_vertical",
+      "video_id": "MA0K8RS0Svw",
+      "url": "https://youtube.com/shorts/MA0K8RS0Svw",
+      "titulo": "Por Que o Rio Tem Quase Metade dos Carros a Gás do Brasil? #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:01:32-0300"
+    },
+    {
+      "id": "SHORT-161",
+      "tipo": "short_vertical",
+      "video_id": "yfxGsRxeing",
+      "url": "https://youtube.com/shorts/yfxGsRxeing",
+      "titulo": "O Brasil É o Maior Exportador de Café Solúvel do Mundo! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:02:24-0300"
+    },
+    {
+      "id": "SHORT-162",
+      "tipo": "short_vertical",
+      "video_id": "OZOmBEoHnts",
+      "url": "https://youtube.com/shorts/OZOmBEoHnts",
+      "titulo": "O Mapa do Feminicídio no Brasil: O Que os Dados Revelam #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T05:03:30-0300"
+    },
+    {
+      "id": "SHORT-163",
+      "tipo": "short_vertical",
+      "video_id": "L9ilVwxqahY",
+      "url": "https://youtube.com/shorts/L9ilVwxqahY",
+      "titulo": "Mais de 1,2 Milhão de Tratores! A Mecanização do Agro Brasileiro #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:04:31-0300"
+    },
+    {
+      "id": "SHORT-164",
+      "tipo": "short_vertical",
+      "video_id": "CLwuer3Luis",
+      "url": "https://youtube.com/shorts/CLwuer3Luis",
+      "titulo": "O Vale do Lítio: A Nova Riqueza Mineral do Brasil! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:07:46-0300"
+    },
+    {
+      "id": "SHORT-165",
+      "tipo": "short_vertical",
+      "video_id": "brKXQmc1g4U",
+      "url": "https://youtube.com/shorts/brKXQmc1g4U",
+      "titulo": "37 Mil Centenários no Brasil! O Salto dos 100 Anos #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T05:08:42-0300"
+    },
+    {
+      "id": "SHORT-166",
+      "tipo": "short_vertical",
+      "video_id": "ng7VSxvzV3k",
+      "url": "https://youtube.com/shorts/ng7VSxvzV3k",
+      "titulo": "O Mercado de Games no Brasil: R$ 13 Bilhões por Ano! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:12:02-0300"
+    },
+    {
+      "id": "SHORT-167",
+      "tipo": "short_vertical",
+      "video_id": "5942I4Vywt0",
+      "url": "https://youtube.com/shorts/5942I4Vywt0",
+      "titulo": "As Autoestradas de Água! As Maiores Hidrovias do Brasil #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:13:04-0300"
+    },
+    {
+      "id": "SHORT-168",
+      "tipo": "short_vertical",
+      "video_id": "kXR3PNhaG1g",
+      "url": "https://youtube.com/shorts/kXR3PNhaG1g",
+      "titulo": "20% dos Dentistas do Mundo Estão no Brasil! O Gráfico do Sorriso #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T05:13:59-0300"
+    },
+    {
+      "id": "SHORT-169",
+      "tipo": "short_vertical",
+      "video_id": "qeekBYfuWuo",
+      "url": "https://youtube.com/shorts/qeekBYfuWuo",
+      "titulo": "850 Milhões de Pares de Calçados! O Gigante dos Sapatos #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:14:56-0300"
+    },
+    {
+      "id": "SHORT-170",
+      "tipo": "short_vertical",
+      "video_id": "7vRUwbK3dqI",
+      "url": "https://youtube.com/shorts/7vRUwbK3dqI",
+      "titulo": "O Átomo Brasileiro: De Onde Vem a Energia Nuclear de Angra? #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:15:47-0300"
+    },
+    {
+      "id": "SHORT-171",
+      "tipo": "short_vertical",
+      "video_id": "vWdTb4Xteso",
+      "url": "https://youtube.com/shorts/vWdTb4Xteso",
+      "titulo": "O Mel Orgânico Brasileiro: O Doce Sucesso das Exportações! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:16:47-0300"
+    },
+    {
+      "id": "SHORT-172",
+      "tipo": "short_vertical",
+      "video_id": "H4MirHrf--o",
+      "url": "https://youtube.com/shorts/H4MirHrf--o",
+      "titulo": "O Campo Esvaziou? Apenas 12% dos Brasileiros na Zona Rural! #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T05:17:45-0300"
+    },
+    {
+      "id": "SHORT-173",
+      "tipo": "short_vertical",
+      "video_id": "StMfVN40RY4",
+      "url": "https://youtube.com/shorts/StMfVN40RY4",
+      "titulo": "A Explosão das Duas Rodas: 1,6 Milhão de Motos Vendidas! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:18:39-0300"
+    },
+    {
+      "id": "SHORT-174",
+      "tipo": "short_vertical",
+      "video_id": "1AVSVCTKY5Q",
+      "url": "https://youtube.com/shorts/1AVSVCTKY5Q",
+      "titulo": "O Brasil É o 2º Maior Exportador de Pimenta-do-Reino do Mundo! #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:26:55-0300"
+    },
+    {
+      "id": "SHORT-175",
+      "tipo": "short_vertical",
+      "video_id": "VGgAXNKwJjA",
+      "url": "https://youtube.com/shorts/VGgAXNKwJjA",
+      "titulo": "Mais de 220 Mil Arquitetos no Brasil! Quem Desenha Nossas Cidades? #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:35:48-0300"
+    },
+    {
+      "id": "SHORT-176",
+      "tipo": "short_vertical",
+      "video_id": "MsKqU5MdLOE",
+      "url": "https://youtube.com/shorts/MsKqU5MdLOE",
+      "titulo": "40 Milhões de Pneus Velhos! Para Onde Vai a Borracha no Brasil? #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T05:42:50-0300"
+    },
+    {
+      "id": "SHORT-177",
+      "tipo": "short_vertical",
+      "video_id": "THRsaLInw5Q",
+      "url": "https://youtube.com/shorts/THRsaLInw5Q",
+      "titulo": "10 Milhões de Pessoas em Consórcio! A Fuga dos Juros Altos #Shorts",
+      "playlist": "PLd8tt0FcN3Fg",
+      "published_at": "2026-10-01T05:52:09-0300"
+    },
+    {
+      "id": "SHORT-178",
+      "tipo": "short_vertical",
+      "video_id": "vBflGMoymik",
+      "url": "https://youtube.com/shorts/vBflGMoymik",
+      "titulo": "O Salto das Creches no Brasil: A Corrida pelas Vagas de 0 a 3 Anos #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T06:02:23-0300"
+    },
+    {
+      "id": "SHORT-179",
+      "tipo": "short_vertical",
+      "video_id": "jCcYi0W1Efo",
+      "url": "https://youtube.com/shorts/jCcYi0W1Efo",
+      "titulo": "Líder Mundial Há 30 Anos! O Gráfico do Fumo em Folha #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T06:09:29-0300"
+    },
+    {
+      "id": "SHORT-180",
+      "tipo": "short_vertical",
+      "video_id": "fiZmimmfhQk",
+      "url": "https://youtube.com/shorts/fiZmimmfhQk",
+      "titulo": "SUVs Blindados Dominam! O Perfil dos Carros Protegidos no Brasil #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T06:17:20-0300"
+    },
+    {
+      "id": "SHORT-181",
+      "tipo": "short_vertical",
+      "video_id": "c38fckAb8uA",
+      "url": "https://youtube.com/shorts/c38fckAb8uA",
+      "titulo": "A Safrinha Virou Gigante! 75% do Milho Brasileiro Vem Dela #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T06:26:43-0300"
+    },
+    {
+      "id": "SHORT-182",
+      "tipo": "short_vertical",
+      "video_id": "mYw2SbMTKa0",
+      "url": "https://youtube.com/shorts/mYw2SbMTKa0",
+      "titulo": "A Queda do Analfabetismo no Nordeste: A Maior Virada do Censo! #Shorts",
+      "playlist": "PLQqDlBP1kQL8",
+      "published_at": "2026-10-01T06:33:55-0300"
+    },
+    {
+      "id": "SHORT-183",
+      "tipo": "short_vertical",
+      "video_id": "dG3tBefkRvw",
+      "url": "https://youtube.com/shorts/dG3tBefkRvw",
+      "titulo": "Carros 100% Elétricos no Brasil: Quem Lidera Essa Corrida? #Shorts",
+      "playlist": "PLCoz7s5-zygg",
+      "published_at": "2026-10-01T06:51:21-0300"
+    },
+    {
+      "id": "SHORT-184",
+      "tipo": "short_vertical",
+      "titulo": "90% do Nióbio do Mundo É Nosso! O Monopólio Mineral do Brasil #Shorts",
+      "video_id": "XhsJ6P8iiwc",
+      "url": "https://youtube.com/shorts/XhsJ6P8iiwc",
+      "published_at": "2026-10-01T18:01:04-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-02T19:00:00-0300",
+      "publishAt": "2026-10-02T22:00:00Z"
+    },
+    {
+      "id": "SHORT-185",
+      "tipo": "short_vertical",
+      "titulo": "Mais de 50% dos Lares São Sustentados por Mulheres no Brasil! #Shorts",
+      "video_id": "L7CaKxG5OYA",
+      "url": "https://youtube.com/shorts/L7CaKxG5OYA",
+      "published_at": "2026-10-01T18:04:57-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-02T20:00:00-0300",
+      "publishAt": "2026-10-02T23:00:00Z"
+    },
+    {
+      "id": "SHORT-186",
+      "tipo": "short_vertical",
+      "titulo": "85% das Caixas de Papelão São Recicladas! O Ciclo do E-Commerce #Shorts",
+      "video_id": "_KKcPgJ1N-o",
+      "url": "https://youtube.com/shorts/_KKcPgJ1N-o",
+      "published_at": "2026-10-01T18:06:56-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-02T21:00:00-0300",
+      "publishAt": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "SHORT-187",
+      "tipo": "short_vertical",
+      "titulo": "O Fim do Celular Pré-Pago? O Avanço dos Planos Controle no Brasil #Shorts",
+      "video_id": "KaF2cXP-f3Y",
+      "url": "https://youtube.com/shorts/KaF2cXP-f3Y",
+      "published_at": "2026-10-01T18:07:46-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-02T22:00:00-0300",
+      "publishAt": "2026-10-03T01:00:00Z"
+    },
+    {
+      "id": "SHORT-188",
+      "tipo": "short_vertical",
+      "titulo": "Cadê o Médico Especialista? O Gargalo da Saúde no Brasil #Shorts",
+      "video_id": "KrVPNJmv1zY",
+      "url": "https://youtube.com/shorts/KrVPNJmv1zY",
+      "published_at": "2026-10-01T18:08:41-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-02T23:00:00-0300",
+      "publishAt": "2026-10-03T02:00:00Z"
+    },
+    {
+      "id": "SHORT-189",
+      "tipo": "short_vertical",
+      "titulo": "85% dos Adubos Vêm de Fora! O Raio-X dos Fertilizantes no Agro #Shorts",
+      "video_id": "pW15iWSxNK8",
+      "url": "https://youtube.com/shorts/pW15iWSxNK8",
+      "published_at": "2026-10-01T18:09:34-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T00:00:00-0300",
+      "publishAt": "2026-10-03T03:00:00Z"
+    },
+    {
+      "id": "SHORT-190",
+      "tipo": "short_vertical",
+      "titulo": "Do Lixo à Energia Limpa! O Salto do Biogás no Brasil #Shorts",
+      "video_id": "FWZxzH0_iRo",
+      "url": "https://youtube.com/shorts/FWZxzH0_iRo",
+      "published_at": "2026-10-01T18:10:35-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T01:00:00-0300",
+      "publishAt": "2026-10-03T04:00:00Z"
+    },
+    {
+      "id": "SHORT-191",
+      "tipo": "short_vertical",
+      "titulo": "A Força do Porto de Santos: 30% do Comércio Exterior Brasileiro! #Shorts",
+      "video_id": "Gm26mE_J_zM",
+      "url": "https://youtube.com/shorts/Gm26mE_J_zM",
+      "published_at": "2026-10-01T18:11:52-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T02:00:00-0300",
+      "publishAt": "2026-10-03T05:00:00Z"
+    },
+    {
+      "id": "SHORT-192",
+      "tipo": "short_vertical",
+      "titulo": "A Queda das Mortes no Trânsito: O Efeito Histórico da Lei Seca #Shorts",
+      "video_id": "KL4KLlvUU-E",
+      "url": "https://youtube.com/shorts/KL4KLlvUU-E",
+      "published_at": "2026-10-01T18:12:43-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T03:00:00-0300",
+      "publishAt": "2026-10-03T06:00:00Z"
+    },
+    {
+      "id": "SHORT-193",
+      "tipo": "short_vertical",
+      "titulo": "A 2ª Maior Frota de Jatos Executivos do Mundo Fica no Brasil! #Shorts",
+      "video_id": "25db6aaOxwc",
+      "url": "https://youtube.com/shorts/25db6aaOxwc",
+      "published_at": "2026-10-01T18:13:37-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T04:00:00-0300",
+      "publishAt": "2026-10-03T07:00:00Z"
+    },
+    {
+      "id": "SHORT-194",
+      "tipo": "short_vertical",
+      "titulo": "O Gigante do Alumínio: O Salto da Bauxita no Pará! #Shorts",
+      "video_id": "QVfuOdKBbQ8",
+      "url": "https://youtube.com/shorts/QVfuOdKBbQ8",
+      "published_at": "2026-10-01T18:14:32-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T05:00:00-0300",
+      "publishAt": "2026-10-03T08:00:00Z"
+    },
+    {
+      "id": "SHORT-195",
+      "tipo": "short_vertical",
+      "titulo": "Mais Pets que Crianças: A Virada dos Lares no Brasil! #Shorts",
+      "video_id": "OU5SiBZdOuI",
+      "url": "https://youtube.com/shorts/OU5SiBZdOuI",
+      "published_at": "2026-10-01T18:15:24-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T06:00:00-0300",
+      "publishAt": "2026-10-03T09:00:00Z"
+    },
+    {
+      "id": "SHORT-196",
+      "tipo": "short_vertical",
+      "titulo": "O Brasil Dá Cor ao Mundo: O 5º Maior Mercado Global de Tintas #Shorts",
+      "video_id": "ZqTE7kI6Apk",
+      "url": "https://youtube.com/shorts/ZqTE7kI6Apk",
+      "published_at": "2026-10-01T18:16:29-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T07:00:00-0300",
+      "publishAt": "2026-10-03T10:00:00Z"
+    },
+    {
+      "id": "SHORT-197",
+      "tipo": "short_vertical",
+      "titulo": "O Mar de Pás no Nordeste: A Capital Mundial dos Ventos! #Shorts",
+      "video_id": "yyBphpo6jjA",
+      "url": "https://youtube.com/shorts/yyBphpo6jjA",
+      "published_at": "2026-10-01T18:17:21-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T08:00:00-0300",
+      "publishAt": "2026-10-03T11:00:00Z"
+    },
+    {
+      "id": "SHORT-198",
+      "tipo": "short_vertical",
+      "titulo": "Onde Estão os Policiais? O Raio-X da Segurança Pública no Brasil! #Shorts",
+      "video_id": "zSTeJVlGPW0",
+      "url": "https://youtube.com/shorts/zSTeJVlGPW0",
+      "published_at": "2026-10-01T18:18:14-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T09:00:00-0300",
+      "publishAt": "2026-10-03T12:00:00Z"
+    },
+    {
+      "id": "SHORT-199",
+      "tipo": "short_vertical",
+      "titulo": "O Império do Açúcar: 70% da Safra Brasileira Alimenta o Mundo! #Shorts",
+      "video_id": "v5poog1f-bY",
+      "url": "https://youtube.com/shorts/v5poog1f-bY",
+      "published_at": "2026-10-01T18:19:09-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T10:00:00-0300",
+      "publishAt": "2026-10-03T13:00:00Z"
+    },
+    {
+      "id": "SHORT-200",
+      "tipo": "short_vertical",
+      "titulo": "O Fim dos Lixões: A Virada dos Resíduos Sólidos no Brasil! #Shorts",
+      "video_id": "RqmWX5BKkps",
+      "url": "https://youtube.com/shorts/RqmWX5BKkps",
+      "published_at": "2026-10-01T18:20:00-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T11:00:00-0300",
+      "publishAt": "2026-10-03T14:00:00Z"
+    },
+    {
+      "id": "SHORT-201",
+      "tipo": "short_vertical",
+      "titulo": "75% do Suco de Laranja do Planeta É Brasileiro! O Monopólio Citrícola #Shorts",
+      "video_id": "dzMOTeCYS5k",
+      "url": "https://youtube.com/shorts/dzMOTeCYS5k",
+      "published_at": "2026-10-01T18:36:21-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T12:00:00-0300",
+      "publishAt": "2026-10-03T15:00:00Z"
+    },
+    {
+      "id": "SHORT-202",
+      "tipo": "short_vertical",
+      "titulo": "A Queda da Fecundidade no Brasil: O País Abaixo da Reposição! #Shorts",
+      "video_id": "h6k-gRdDGJA",
+      "url": "https://youtube.com/shorts/h6k-gRdDGJA",
+      "published_at": "2026-10-01T18:43:46-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T13:00:00-0300",
+      "publishAt": "2026-10-03T16:00:00Z"
+    },
+    {
+      "id": "SHORT-203",
+      "tipo": "short_vertical",
+      "titulo": "A Explosão da Energia Solar no Brasil: O Salto dos 45 GW! #Shorts",
+      "video_id": "4gfZN3NgR5M",
+      "url": "https://youtube.com/shorts/4gfZN3NgR5M",
+      "published_at": "2026-10-01T18:53:13-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T14:00:00-0300",
+      "publishAt": "2026-10-03T17:00:00Z"
+    },
+    {
+      "id": "SHORT-204",
+      "tipo": "short_vertical",
+      "titulo": "O Gigante da Madeira Plantada: O Setor de Florestas Cultivadas! #Shorts",
+      "video_id": "9HF8UiCnrnQ",
+      "url": "https://youtube.com/shorts/9HF8UiCnrnQ",
+      "published_at": "2026-10-01T19:03:21-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T15:00:00-0300",
+      "publishAt": "2026-10-03T18:00:00Z"
+    },
+    {
+      "id": "SHORT-205",
+      "tipo": "short_vertical",
+      "titulo": "A Explosão de Vagas de Medicina no Brasil: Mais de 40 Mil por Ano! #Shorts",
+      "video_id": "nHWeRNGI6xE",
+      "url": "https://youtube.com/shorts/nHWeRNGI6xE",
+      "published_at": "2026-10-01T19:13:17-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T16:00:00-0300",
+      "publishAt": "2026-10-03T19:00:00Z"
+    },
+    {
+      "id": "SHORT-206",
+      "tipo": "short_vertical",
+      "titulo": "A Maior Cadeia Têxtil do Ocidente Fica no Brasil! Do Algodão à Vitrine #Shorts",
+      "video_id": "hCW-sJO9sBo",
+      "url": "https://youtube.com/shorts/hCW-sJO9sBo",
+      "published_at": "2026-10-01T19:22:20-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T17:00:00-0300",
+      "publishAt": "2026-10-03T20:00:00Z"
+    },
+    {
+      "id": "SHORT-207",
+      "tipo": "short_vertical",
+      "titulo": "A Frota de Ônibus no Brasil: O Raio-X do Transporte Coletivo #Shorts",
+      "video_id": "ZIZeUhdRf0Y",
+      "url": "https://youtube.com/shorts/ZIZeUhdRf0Y",
+      "published_at": "2026-10-01T19:31:47-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T18:00:00-0300",
+      "publishAt": "2026-10-03T21:00:00Z"
+    },
+    {
+      "id": "SHORT-208",
+      "tipo": "short_vertical",
+      "titulo": "A Virada Histórica do EAD: Mais de 60% dos Calouros Estudam Online! #Shorts",
+      "video_id": "5alPHRd4T7U",
+      "url": "https://youtube.com/shorts/5alPHRd4T7U",
+      "published_at": "2026-10-01T19:41:46-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T19:00:00-0300",
+      "publishAt": "2026-10-03T22:00:00Z"
+    },
+    {
+      "id": "SHORT-209",
+      "tipo": "short_vertical",
+      "titulo": "O Brasil Calça o Mundo: O 4º Maior Produtor de Calçados! #Shorts",
+      "video_id": "zfF4jT02a6Q",
+      "url": "https://youtube.com/shorts/zfF4jT02a6Q",
+      "published_at": "2026-10-01T19:54:16-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T20:00:00-0300",
+      "publishAt": "2026-10-03T23:00:00Z"
+    },
+    {
+      "id": "SHORT-210",
+      "tipo": "short_vertical",
+      "titulo": "O Mapa da Coleta Seletiva no Brasil: Onde Mais se Recicla Lixo? #Shorts",
+      "video_id": "7L2c-bs1OdA",
+      "url": "https://youtube.com/shorts/7L2c-bs1OdA",
+      "published_at": "2026-10-01T20:05:33-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T21:00:00-0300",
+      "publishAt": "2026-10-04T00:00:00Z"
+    },
+    {
+      "id": "SHORT-211",
+      "tipo": "short_vertical",
+      "titulo": "O Gigante da Carne Bovina: O Brasil Alimenta o Planeta! #Shorts",
+      "video_id": "BNlyg_hPx5s",
+      "url": "https://youtube.com/shorts/BNlyg_hPx5s",
+      "published_at": "2026-10-01T20:17:32-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T22:00:00-0300",
+      "publishAt": "2026-10-04T01:00:00Z"
+    },
+    {
+      "id": "SHORT-212",
+      "tipo": "short_vertical",
+      "titulo": "O Brasil Sem Jovens? A Queda Histórica da Juventude no Censo #Shorts",
+      "video_id": "W7gSemy388E",
+      "url": "https://youtube.com/shorts/W7gSemy388E",
+      "published_at": "2026-10-01T20:31:41-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-03T23:00:00-0300",
+      "publishAt": "2026-10-04T02:00:00Z"
+    },
+    {
+      "id": "SHORT-213",
+      "tipo": "short_vertical",
+      "titulo": "Mais Motos que Carros? Onde as Duas Rodas Dominam o Brasil #Shorts",
+      "video_id": "k0UwkJlD_NM",
+      "url": "https://youtube.com/shorts/k0UwkJlD_NM",
+      "published_at": "2026-10-01T20:45:25-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T00:00:00-0300",
+      "publishAt": "2026-10-04T03:00:00Z"
+    },
+    {
+      "id": "SHORT-214",
+      "tipo": "short_vertical",
+      "titulo": "O Salto do Trigo no Brasil: A Rumo da Autossuficiência! #Shorts",
+      "video_id": "6_vR9N6smHc",
+      "url": "https://youtube.com/shorts/6_vR9N6smHc",
+      "published_at": "2026-10-01T20:59:41-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T01:00:00-0300",
+      "publishAt": "2026-10-04T04:00:00Z"
+    },
+    {
+      "id": "SHORT-215",
+      "tipo": "short_vertical",
+      "titulo": "O Mapa do Home Office no Brasil: Quem Ainda Trabalha de Casa? #Shorts",
+      "video_id": "zzDbPXl0XE0",
+      "url": "https://youtube.com/shorts/zzDbPXl0XE0",
+      "published_at": "2026-10-01T21:16:31-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T02:00:00-0300",
+      "publishAt": "2026-10-04T05:00:00Z"
+    },
+    {
+      "id": "SHORT-216",
+      "tipo": "short_vertical",
+      "titulo": "O Império Global da Embraer: Os Jatos que Conectam o Mundo! #Shorts",
+      "video_id": "hKMXRGQExAM",
+      "url": "https://youtube.com/shorts/hKMXRGQExAM",
+      "published_at": "2026-10-01T21:33:56-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T03:00:00-0300",
+      "publishAt": "2026-10-04T06:00:00Z"
+    },
+    {
+      "id": "SHORT-217",
+      "tipo": "short_vertical",
+      "titulo": "A Energia que Vem da Cana: A Eletricidade da Biomassa no Brasil! #Shorts",
+      "video_id": "ZN1SvzAzp-0",
+      "url": "https://youtube.com/shorts/ZN1SvzAzp-0",
+      "published_at": "2026-10-02T15:47:12-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T04:00:00-0300",
+      "publishAt": "2026-10-04T07:00:00Z"
+    },
+    {
+      "id": "SHORT-218",
+      "tipo": "short_vertical",
+      "titulo": "A Explosão dos Psicólogos no Brasil: Onde Faltam Profissionais? #Shorts",
+      "video_id": "1ibADd0W8A0",
+      "url": "https://youtube.com/shorts/1ibADd0W8A0",
+      "published_at": "2026-10-02T15:48:48-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T05:00:00-0300",
+      "publishAt": "2026-10-04T08:00:00Z"
+    },
+    {
+      "id": "SHORT-219",
+      "tipo": "short_vertical",
+      "titulo": "O Império da Tilápia: O Brasil no Top 4 Mundial da Piscicultura! #Shorts",
+      "video_id": "WFjI106YmQs",
+      "url": "https://youtube.com/shorts/WFjI106YmQs",
+      "published_at": "2026-10-02T15:49:49-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T06:00:00-0300",
+      "publishAt": "2026-10-04T09:00:00Z"
+    },
+    {
+      "id": "SHORT-220",
+      "tipo": "short_vertical",
+      "titulo": "Táxi vs Carro de App: A Revolução da Mobilidade no Brasil! #Shorts",
+      "video_id": "K__pGFMmSd4",
+      "url": "https://youtube.com/shorts/K__pGFMmSd4",
+      "published_at": "2026-10-02T15:50:55-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T07:00:00-0300",
+      "publishAt": "2026-10-04T10:00:00Z"
+    },
+    {
+      "id": "SHORT-221",
+      "tipo": "short_vertical",
+      "titulo": "O Brasil no Top 10 Mundial do Petróleo: O Salto do Pré-Sal! #Shorts",
+      "video_id": "FfYCEk1G7nc",
+      "url": "https://youtube.com/shorts/FfYCEk1G7nc",
+      "published_at": "2026-10-02T15:51:51-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T08:00:00-0300",
+      "publishAt": "2026-10-04T11:00:00Z"
+    },
+    {
+      "id": "SHORT-222",
+      "tipo": "short_vertical",
+      "titulo": "A População Quilombola no Brasil: O Censo Histórico do IBGE! #Shorts",
+      "video_id": "I1p3gFRQ0TI",
+      "url": "https://youtube.com/shorts/I1p3gFRQ0TI",
+      "published_at": "2026-10-02T15:52:20-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T09:00:00-0300",
+      "publishAt": "2026-10-04T12:00:00Z"
+    },
+    {
+      "id": "SHORT-223",
+      "tipo": "short_vertical",
+      "titulo": "A Frota de Caminhões Pesados no Brasil: O Gigante da Safra! #Shorts",
+      "video_id": "Nf0DnkAAl_Q",
+      "url": "https://youtube.com/shorts/Nf0DnkAAl_Q",
+      "published_at": "2026-10-02T15:52:48-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T10:00:00-0300",
+      "publishAt": "2026-10-04T13:00:00Z"
+    },
+    {
+      "id": "SHORT-224",
+      "tipo": "short_vertical",
+      "titulo": "Tecidos de Madeira? A Celulose Solúvel no Brasil! #Shorts",
+      "video_id": "fsf-62zCabQ",
+      "url": "https://youtube.com/shorts/fsf-62zCabQ",
+      "published_at": "2026-10-02T16:02:43-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T11:00:00-0300",
+      "publishAt": "2026-10-04T14:00:00Z"
+    },
+    {
+      "id": "SHORT-225",
+      "tipo": "short_vertical",
+      "titulo": "Onde Estão os Engenheiros do Brasil? O Raio-X! #Shorts",
+      "video_id": "ZHxFkXnetso",
+      "url": "https://youtube.com/shorts/ZHxFkXnetso",
+      "published_at": "2026-10-02T16:13:39-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T12:00:00-0300",
+      "publishAt": "2026-10-04T15:00:00Z"
+    },
+    {
+      "id": "SHORT-226",
+      "tipo": "short_vertical",
+      "titulo": "O Renascimento do Cacau: Pará vs Bahia! #Shorts",
+      "video_id": "2d-_Lc8NOX4",
+      "url": "https://youtube.com/shorts/2d-_Lc8NOX4",
+      "published_at": "2026-10-02T16:23:07-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T13:00:00-0300",
+      "publishAt": "2026-10-04T16:00:00Z"
+    },
+    {
+      "id": "SHORT-227",
+      "tipo": "short_vertical",
+      "titulo": "A Força Invisível das Águas: O Mapa das PCHs no Brasil! #Shorts",
+      "video_id": "HyBAL4fztmU",
+      "url": "https://youtube.com/shorts/HyBAL4fztmU",
+      "published_at": "2026-10-02T16:35:59-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T14:00:00-0300",
+      "publishAt": "2026-10-04T17:00:00Z"
+    },
+    {
+      "id": "SHORT-228",
+      "tipo": "short_vertical",
+      "titulo": "A Queda da Mortalidade Infantil: O Avanço da Saúde! #Shorts",
+      "video_id": "9xdDrPq9jU4",
+      "url": "https://youtube.com/shorts/9xdDrPq9jU4",
+      "published_at": "2026-10-02T16:49:52-0300",
+      "privacyStatus": "scheduled",
+      "scheduled_for": "2026-10-04T15:00:00-0300",
+      "publishAt": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "SHORT-229",
+      "tipo": "short_vertical",
+      "titulo": "O Boom dos Bioinsumos: O Brasil Lidera o Agro! #Shorts",
+      "video_id": "6lMqWM2NA9A",
+      "url": "https://youtube.com/shorts/6lMqWM2NA9A",
+      "published_at": "2026-10-02T17:03:17-0300",
+      "privacyStatus": "private"
+    },
+    {
+      "id": "SHORT-230",
+      "tipo": "short_vertical",
+      "titulo": "O Mapa da Cachaça: Quem Lidera os Alambiques? #Shorts",
+      "video_id": "RAxty7d-_wQ",
+      "url": "https://youtube.com/shorts/RAxty7d-_wQ",
+      "published_at": "2026-10-02T17:14:40-0300",
+      "privacyStatus": "private"
+    },
+    {
+      "id": "SHORT-231",
+      "tipo": "short_vertical",
+      "titulo": "O Foguete dos Drones no Agro: A Pulverização! #Shorts",
+      "video_id": "x39lQBwYxdI",
+      "url": "https://youtube.com/shorts/x39lQBwYxdI",
+      "published_at": "2026-10-02T17:28:56-0300",
+      "privacyStatus": "private"
+    },
+    {
+      "id": "SHORT-232",
+      "tipo": "short_vertical",
+      "titulo": "Indígenas nas Cidades: A Virada do Censo 2022! #Shorts",
+      "video_id": "jLE61i5RmNY",
+      "url": "https://youtube.com/shorts/jLE61i5RmNY",
+      "published_at": "2026-10-02T17:41:30-0300",
+      "privacyStatus": "private"
+    },
+    {
+      "id": "SHORT-233",
+      "tipo": "short_vertical",
+      "titulo": "O Gasto de Luz nas Capitais: Quem Mais Consome? #Shorts",
+      "video_id": "XZ6_e2IPf4w",
+      "url": "https://youtube.com/shorts/XZ6_e2IPf4w",
+      "published_at": "2026-10-02T18:00:00-0300",
+      "privacyStatus": "private"
+    }
+  ],
+  "bloqueios": [],
+  "proxima_tarefa": "Produzir Lote 18 de ideias (IDEIA-191 em diante) e seguir estocando vídeos com a skill gbro-collage-broll.",
+  "incidentes": [],
+  "buffer_upload_pendente": [],
+  "ultimo_video_produzido": "SHORT-233"
+}
