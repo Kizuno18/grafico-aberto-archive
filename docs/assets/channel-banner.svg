@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title description">
+  <title id="title">Gráfico Aberto</title>
+  <desc id="description">A navy, amber and teal channel banner with a decorative bar chart. Brazil, in data. One story at a time.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#12243a"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity="0.08"/>
+    </pattern>
+    <clipPath id="canvas">
+      <rect width="1200" height="400" rx="22"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#canvas)">
+    <rect width="1200" height="400" fill="url(#background)"/>
+    <rect width="1200" height="400" fill="url(#grid)"/>
+    <circle cx="1180" cy="15" r="225" fill="#38bdf8" opacity="0.035"/>
+    <circle cx="1100" cy="420" r="180" fill="#10b981" opacity="0.035"/>
+    <rect x="64" y="58" width="38" height="5" rx="2.5" fill="#f59e0b"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="116" y="67" fill="#94a3b8" font-size="16" font-weight="700" letter-spacing="3">PUBLIC DATA · VISUAL STORIES</text>
+      <text x="64" y="158" fill="#f8fafc" font-size="60" font-weight="800" letter-spacing="-1.5">GRÁFICO ABERTO</text>
+      <text x="66" y="212" fill="#f59e0b" font-size="29" font-weight="700">Brazil, in data.</text>
+      <text x="66" y="253" fill="#cbd5e1" font-size="27">One story at a time.</text>
+      <rect x="64" y="304" width="225" height="38" rx="19" fill="#f59e0b"/>
+      <text x="176.5" y="329" text-anchor="middle" fill="#0d1117" font-size="17" font-weight="700">@ograficoaberto</text>
+      <text x="313" y="329" fill="#94a3b8" font-size="16">SHORTS · PT-BR · BRAZIL</text>
+    </g>
+    <g transform="translate(770 48)">
+      <rect width="366" height="304" rx="18" fill="#0d1726" stroke="#294056"/>
+      <text x="28" y="39" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#94a3b8" letter-spacing="2">A DIFFERENT WAY TO SEE</text>
+      <g stroke="#334155" stroke-opacity="0.65">
+        <path d="M30 104H336M30 158H336M30 212H336" stroke-dasharray="4 6"/>
+        <path d="M30 258H336"/>
+      </g>
+      <rect x="43" y="189" width="38" height="69" rx="5" fill="url(#bar)" opacity="0.55"/>
+      <rect x="102" y="153" width="38" height="105" rx="5" fill="url(#bar)" opacity="0.7"/>
+      <rect x="161" y="112" width="38" height="146" rx="5" fill="url(#bar)" opacity="0.85"/>
+      <rect x="220" y="137" width="38" height="121" rx="5" fill="url(#bar)"/>
+      <rect x="279" y="75" width="38" height="183" rx="5" fill="#f59e0b"/>
+      <path d="M61 171L120 135L179 94L238 119L297 57" fill="none" stroke="#f8fafc" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <g fill="#f8fafc">
+        <circle cx="61" cy="171" r="4"/>
+        <circle cx="120" cy="135" r="4"/>
+        <circle cx="179" cy="94" r="4"/>
+        <circle cx="238" cy="119" r="4"/>
+        <circle cx="297" cy="57" r="4"/>
+      </g>
+      <text x="183" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64748b" letter-spacing="2">PEOPLE · ECONOMY · ENERGY</text>
+    </g>
+  </g>
+</svg>
