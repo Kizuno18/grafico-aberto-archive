@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:08,475
+Você sabia que o Brasil já tem mais de dez mil drones agrícolas operando no campo e que essa frota cresce 50% ao ano?
+
+2
+00:00:08,475 --> 00:00:17,960
+Em quatro anos, a frota quase decuplicou! Os drones poupam até 90% de água e aplicam produtos exatamente onde a planta precisa.
+
+3
+00:00:17,960 --> 00:00:27,649
+Robótica e satélites transformando a produtividade do campo brasileiro. Quer ver dados em gráficos? Siga o Gráfico Aberto!
